@@ -13,7 +13,7 @@ class Program
         //Console.WriteLine("Hello, World!");
         Dtm[] dtm = GetDTMdescription("/Users/victorpacheco/Desktop/YouTube/convertjson.json");
 
-        string data = await ReadTextFileAsync("/Users/victorpacheco/Desktop/YouTube/sample.txt");
+        string data = await ReadTextFileAsync("/Users/victorpacheco/Desktop/YouTube/edi-sample.txt");
 
 
 
@@ -34,9 +34,9 @@ class Program
         JsonDataWriter w1 = new JsonDataWriter();
         string json = w1.WriteToString(b);
 
-        Console.WriteLine(json);
+        //Console.WriteLine(json);
 
-        Console.WriteLine("-----");
+        //Console.WriteLine("-----");
 
 
         var items = ExportData(b.Interchanges, dtms);

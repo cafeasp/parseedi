@@ -1,0 +1,5374 @@
+[
+ {
+   "Code": "001",
+   "Description": "Cancel After"
+ },
+ {
+   "Code": "002",
+   "Description": "Delivery Requested"
+ },
+ {
+   "Code": "003",
+   "Description": "Invoice"
+ },
+ {
+   "Code": "004",
+   "Description": "Purchase Order"
+ },
+ {
+   "Code": "005",
+   "Description": "Sailing"
+ },
+ {
+   "Code": "006",
+   "Description": "Sold"
+ },
+ {
+   "Code": "007",
+   "Description": "Effective"
+ },
+ {
+   "Code": "008",
+   "Description": "Purchase Order Received"
+ },
+ {
+   "Code": "009",
+   "Description": "Process"
+ },
+ {
+   "Code": "010",
+   "Description": "Requested Ship"
+ },
+ {
+   "Code": "011",
+   "Description": "Shipped"
+ },
+ {
+   "Code": "012",
+   "Description": "Terms Discount Due"
+ },
+ {
+   "Code": "013",
+   "Description": "Terms Net Due"
+ },
+ {
+   "Code": "014",
+   "Description": "Deferred Payment"
+ },
+ {
+   "Code": "015",
+   "Description": "Promotion Start"
+ },
+ {
+   "Code": "016",
+   "Description": "Promotion End"
+ },
+ {
+   "Code": "017",
+   "Description": "Estimated Delivery"
+ },
+ {
+   "Code": "018",
+   "Description": "Available"
+ },
+ {
+   "Code": "019",
+   "Description": "Unloaded"
+ },
+ {
+   "Code": "020",
+   "Description": "Check"
+ },
+ {
+   "Code": "021",
+   "Description": "Charge Back"
+ },
+ {
+   "Code": "022",
+   "Description": "Freight Bill"
+ },
+ {
+   "Code": "023",
+   "Description": "Promotion Order - Start"
+ },
+ {
+   "Code": "024",
+   "Description": "Promotion Order - End"
+ },
+ {
+   "Code": "025",
+   "Description": "Promotion Ship - Start"
+ },
+ {
+   "Code": "026",
+   "Description": "Promotion Ship - End"
+ },
+ {
+   "Code": "027",
+   "Description": "Promotion Requested Delivery - Start"
+ },
+ {
+   "Code": "028",
+   "Description": "Promotion Requested Delivery - End"
+ },
+ {
+   "Code": "029",
+   "Description": "Promotion Performance - Start"
+ },
+ {
+   "Code": "030",
+   "Description": "Promotion Performance - End"
+ },
+ {
+   "Code": "031",
+   "Description": "Promotion Invoice Performance - Start"
+ },
+ {
+   "Code": "032",
+   "Description": "Promotion Invoice Performance - End"
+ },
+ {
+   "Code": "033",
+   "Description": "Promotion Floor Stock Protect - Start"
+ },
+ {
+   "Code": "034",
+   "Description": "Promotion Floor Stock Protect - End"
+ },
+ {
+   "Code": "035",
+   "Description": "Delivered"
+ },
+ {
+   "Code": "036",
+   "Description": "ExpirationDate coverage expires"
+ },
+ {
+   "Code": "037",
+   "Description": "Ship Not Before"
+ },
+ {
+   "Code": "038",
+   "Description": "Ship No Later"
+ },
+ {
+   "Code": "039",
+   "Description": "Ship Week of"
+ },
+ {
+   "Code": "040",
+   "Description": "Status (After and Including)"
+ },
+ {
+   "Code": "041",
+   "Description": "Status (Prior and Including)"
+ },
+ {
+   "Code": "042",
+   "Description": "Superseded"
+ },
+ {
+   "Code": "043",
+   "Description": "Publication"
+ },
+ {
+   "Code": "044",
+   "Description": "Settlement Date as Specified by the Originator"
+ },
+ {
+   "Code": "045",
+   "Description": "Endorsement Date"
+ },
+ {
+   "Code": "046",
+   "Description": "Field FailureWhen a component causes a system to fail at a customer site"
+ },
+ {
+   "Code": "047",
+   "Description": "Functional TestWhen assembly was tested"
+ },
+ {
+   "Code": "048",
+   "Description": "System TestWhen the finished system was tested"
+ },
+ {
+   "Code": "049",
+   "Description": "Prototype TestWhen the prototype system or assembly was tested"
+ },
+ {
+   "Code": "050",
+   "Description": "Received"
+ },
+ {
+   "Code": "051",
+   "Description": "Cumulative Quantity Start"
+ },
+ {
+   "Code": "052",
+   "Description": "Cumulative Quantity End"
+ },
+ {
+   "Code": "053",
+   "Description": "Buyers Local"
+ },
+ {
+   "Code": "054",
+   "Description": "Sellers Local"
+ },
+ {
+   "Code": "055",
+   "Description": "Confirmed"
+ },
+ {
+   "Code": "056",
+   "Description": "Estimated Port of Entry"
+ },
+ {
+   "Code": "057",
+   "Description": "Actual Port of Entry"
+ },
+ {
+   "Code": "058",
+   "Description": "Customs Clearance"
+ },
+ {
+   "Code": "059",
+   "Description": "Inland Ship"
+ },
+ {
+   "Code": "060",
+   "Description": "Engineering Change Level"
+ },
+ {
+   "Code": "061",
+   "Description": "Cancel if Not Delivered by"
+ },
+ {
+   "Code": "062",
+   "Description": "Blueprint"
+ },
+ {
+   "Code": "063",
+   "Description": "Do Not Deliver After"
+ },
+ {
+   "Code": "064",
+   "Description": "Do Not Deliver Before"
+ },
+ {
+   "Code": "065",
+   "Description": "1st Schedule Delivery"
+ },
+ {
+   "Code": "066",
+   "Description": "1st Schedule Ship"
+ },
+ {
+   "Code": "067",
+   "Description": "Current Schedule Delivery"
+ },
+ {
+   "Code": "068",
+   "Description": "Current Schedule Ship"
+ },
+ {
+   "Code": "069",
+   "Description": "Promised for Delivery"
+ },
+ {
+   "Code": "070",
+   "Description": "Scheduled for Delivery (After and Including)"
+ },
+ {
+   "Code": "071",
+   "Description": "Requested for Delivery (After and Including)"
+ },
+ {
+   "Code": "072",
+   "Description": "Promised for Delivery (After and Including)"
+ },
+ {
+   "Code": "073",
+   "Description": "Scheduled for Delivery (Prior to and Including)"
+ },
+ {
+   "Code": "074",
+   "Description": "Requested for Delivery (Prior to and Including)"
+ },
+ {
+   "Code": "075",
+   "Description": "Promised for Delivery (Prior to and Including)"
+ },
+ {
+   "Code": "076",
+   "Description": "Scheduled for Delivery (Week of)"
+ },
+ {
+   "Code": "077",
+   "Description": "Requested for Delivery (Week of)"
+ },
+ {
+   "Code": "078",
+   "Description": "Promised for Delivery (Week of)"
+ },
+ {
+   "Code": "079",
+   "Description": "Promised for Shipment"
+ },
+ {
+   "Code": "080",
+   "Description": "Scheduled for Shipment (After and Including)"
+ },
+ {
+   "Code": "081",
+   "Description": "Requested for Shipment (After and Including)"
+ },
+ {
+   "Code": "082",
+   "Description": "Promised for Shipment (After and Including)"
+ },
+ {
+   "Code": "083",
+   "Description": "Scheduled for Shipment (Prior to and Including)"
+ },
+ {
+   "Code": "084",
+   "Description": "Requested for Shipment (Prior to and Including)"
+ },
+ {
+   "Code": "085",
+   "Description": "Promised for Shipment (Prior to and Including)"
+ },
+ {
+   "Code": "086",
+   "Description": "Scheduled for Shipment (Week of)"
+ },
+ {
+   "Code": "087",
+   "Description": "Requested for Shipment (Week of)"
+ },
+ {
+   "Code": "088",
+   "Description": "Promised for Shipment (Week of)"
+ },
+ {
+   "Code": "089",
+   "Description": "Inquiry"
+ },
+ {
+   "Code": "090",
+   "Description": "Report Start"
+ },
+ {
+   "Code": "091",
+   "Description": "Report End"
+ },
+ {
+   "Code": "092",
+   "Description": "Contract Effective"
+ },
+ {
+   "Code": "093",
+   "Description": "Contract Expiration"
+ },
+ {
+   "Code": "094",
+   "Description": "Manufacture"
+ },
+ {
+   "Code": "095",
+   "Description": "Bill of Lading"
+ },
+ {
+   "Code": "096",
+   "Description": "Discharge"
+ },
+ {
+   "Code": "097",
+   "Description": "Transaction Creation"
+ },
+ {
+   "Code": "098",
+   "Description": "Bid (Effective)"
+ },
+ {
+   "Code": "099",
+   "Description": "Bid Open (Date Bids Will Be Opened)"
+ },
+ {
+   "Code": "100",
+   "Description": "No Shipping Schedule Established as of"
+ },
+ {
+   "Code": "101",
+   "Description": "No Production Schedule Established as of"
+ },
+ {
+   "Code": "102",
+   "Description": "Issue"
+ },
+ {
+   "Code": "103",
+   "Description": "Award"
+ },
+ {
+   "Code": "104",
+   "Description": "System Survey"
+ },
+ {
+   "Code": "105",
+   "Description": "Quality Rating"
+ },
+ {
+   "Code": "106",
+   "Description": "Required By"
+ },
+ {
+   "Code": "107",
+   "Description": "Deposit"
+ },
+ {
+   "Code": "108",
+   "Description": "Postmark"
+ },
+ {
+   "Code": "109",
+   "Description": "Received at Lockbox"
+ },
+ {
+   "Code": "110",
+   "Description": "Originally Scheduled Ship"
+ },
+ {
+   "Code": "111",
+   "Description": "Manifest/Ship Notice"
+ },
+ {
+   "Code": "112",
+   "Description": "Buyers Dock"
+ },
+ {
+   "Code": "113",
+   "Description": "Sample Required"
+ },
+ {
+   "Code": "114",
+   "Description": "Tooling Required"
+ },
+ {
+   "Code": "115",
+   "Description": "Sample Available"
+ },
+ {
+   "Code": "116",
+   "Description": "Scheduled Interchange Delivery"
+ },
+ {
+   "Code": "118",
+   "Description": "Requested Pickup"
+ },
+ {
+   "Code": "119",
+   "Description": "Test Performed"
+ },
+ {
+   "Code": "120",
+   "Description": "Control Plan"
+ },
+ {
+   "Code": "121",
+   "Description": "Feasibility Sign Off"
+ },
+ {
+   "Code": "122",
+   "Description": "Failure Mode Effective"
+ },
+ {
+   "Code": "124",
+   "Description": "Group Contract Effective"
+ },
+ {
+   "Code": "125",
+   "Description": "Group Contract Expiration"
+ },
+ {
+   "Code": "126",
+   "Description": "Wholesale Contract Effective"
+ },
+ {
+   "Code": "127",
+   "Description": "Wholesale Contract Expiration"
+ },
+ {
+   "Code": "128",
+   "Description": "Replacement Effective"
+ },
+ {
+   "Code": "129",
+   "Description": "Customer Contract Effective"
+ },
+ {
+   "Code": "130",
+   "Description": "Customer Contract Expiration"
+ },
+ {
+   "Code": "131",
+   "Description": "Item Contract Effective"
+ },
+ {
+   "Code": "132",
+   "Description": "Item Contract Expiration"
+ },
+ {
+   "Code": "133",
+   "Description": "Accounts Receivable - Statement Date"
+ },
+ {
+   "Code": "134",
+   "Description": "Ready for Inspection"
+ },
+ {
+   "Code": "135",
+   "Description": "Booking"
+ },
+ {
+   "Code": "136",
+   "Description": "Technical Rating"
+ },
+ {
+   "Code": "137",
+   "Description": "Delivery Rating"
+ },
+ {
+   "Code": "138",
+   "Description": "Commercial Rating"
+ },
+ {
+   "Code": "139",
+   "Description": "Estimated"
+ },
+ {
+   "Code": "140",
+   "Description": "Actual"
+ },
+ {
+   "Code": "141",
+   "Description": "AssignedWhen the service request was supplied to the service provider or agency"
+ },
+ {
+   "Code": "142",
+   "Description": "LossWhen the insured experienced the theft, damage, or casualty to a given property"
+ },
+ {
+   "Code": "143",
+   "Description": "Due Date of First Payment to Principal and InterestThe date first mortgage payment on the principal and interest on a mortgage loan is due"
+ },
+ {
+   "Code": "144",
+   "Description": "Estimated Acceptance"
+ },
+ {
+   "Code": "145",
+   "Description": "Opening Date"
+ },
+ {
+   "Code": "146",
+   "Description": "Closing Date"
+ },
+ {
+   "Code": "147",
+   "Description": "Due Date Last Complete Installment PaidThe date last complete principal and interest mortgage payment made was due"
+ },
+ {
+   "Code": "148",
+   "Description": "Date of Local Office Approval of Conveyance of Damaged Real Estate PropertyThe date local office approves of the transfer of damaged property"
+ },
+ {
+   "Code": "149",
+   "Description": "Date Deed Filed for RecordThe date the formal document (deed) used to transfer title to real estate is filed for record with the recording authority"
+ },
+ {
+   "Code": "150",
+   "Description": "Service Period Start"
+ },
+ {
+   "Code": "151",
+   "Description": "Service Period End"
+ },
+ {
+   "Code": "152",
+   "Description": "Effective Date of ChangeDate on which the change went into effect"
+ },
+ {
+   "Code": "153",
+   "Description": "Service Interruption"
+ },
+ {
+   "Code": "154",
+   "Description": "Adjustment Period Start"
+ },
+ {
+   "Code": "155",
+   "Description": "Adjustment Period End"
+ },
+ {
+   "Code": "156",
+   "Description": "Allotment Period Start"
+ },
+ {
+   "Code": "157",
+   "Description": "Test Period Start"
+ },
+ {
+   "Code": "158",
+   "Description": "Test Period Ending"
+ },
+ {
+   "Code": "159",
+   "Description": "Bid Price Exception"
+ },
+ {
+   "Code": "160",
+   "Description": "Samples to be Returned By"
+ },
+ {
+   "Code": "161",
+   "Description": "Loaded on Vessel"
+ },
+ {
+   "Code": "162",
+   "Description": "Pending Archive"
+ },
+ {
+   "Code": "163",
+   "Description": "Actual Archive"
+ },
+ {
+   "Code": "164",
+   "Description": "First Issue"
+ },
+ {
+   "Code": "165",
+   "Description": "Final Issue"
+ },
+ {
+   "Code": "166",
+   "Description": "Message"
+ },
+ {
+   "Code": "167",
+   "Description": "Most Recent Revision (or Initial Version)"
+ },
+ {
+   "Code": "168",
+   "Description": "Release"
+ },
+ {
+   "Code": "169",
+   "Description": "Product Availability Date"
+ },
+ {
+   "Code": "170",
+   "Description": "Supplemental Issue"
+ },
+ {
+   "Code": "171",
+   "Description": "Revision"
+ },
+ {
+   "Code": "172",
+   "Description": "Correction"
+ },
+ {
+   "Code": "173",
+   "Description": "Week Ending"
+ },
+ {
+   "Code": "174",
+   "Description": "Month Ending"
+ },
+ {
+   "Code": "175",
+   "Description": "Cancel if not shipped by"
+ },
+ {
+   "Code": "176",
+   "Description": "Expedited on"
+ },
+ {
+   "Code": "177",
+   "Description": "CancellationDate on which the coverage or service is no longer in force"
+ },
+ {
+   "Code": "178",
+   "Description": "Hold (as of)"
+ },
+ {
+   "Code": "179",
+   "Description": "Hold as Stock (as of)"
+ },
+ {
+   "Code": "180",
+   "Description": "No Promise (as of)"
+ },
+ {
+   "Code": "181",
+   "Description": "Stop Work (as of)"
+ },
+ {
+   "Code": "182",
+   "Description": "Will Advise (as of)"
+ },
+ {
+   "Code": "183",
+   "Description": "Connection"
+ },
+ {
+   "Code": "184",
+   "Description": "Inventory"
+ },
+ {
+   "Code": "185",
+   "Description": "Vessel Registry"
+ },
+ {
+   "Code": "186",
+   "Description": "Invoice Period StartWhen the billing period covered by an invoice begins"
+ },
+ {
+   "Code": "187",
+   "Description": "Invoice Period EndWhen the billing period covered by an invoice ends"
+ },
+ {
+   "Code": "188",
+   "Description": "Credit Advice"
+ },
+ {
+   "Code": "189",
+   "Description": "Debit Advice"
+ },
+ {
+   "Code": "190",
+   "Description": "Released to Vessel"
+ },
+ {
+   "Code": "191",
+   "Description": "Material Specification"
+ },
+ {
+   "Code": "192",
+   "Description": "Delivery Ticket"
+ },
+ {
+   "Code": "193",
+   "Description": "Period Start"
+ },
+ {
+   "Code": "194",
+   "Description": "Period End"
+ },
+ {
+   "Code": "195",
+   "Description": "Contract Re-Open"
+ },
+ {
+   "Code": "196",
+   "Description": "Start"
+ },
+ {
+   "Code": "197",
+   "Description": "End"
+ },
+ {
+   "Code": "198",
+   "Description": "CompletionDate when the activity was completed"
+ },
+ {
+   "Code": "199",
+   "Description": "Seal"
+ },
+ {
+   "Code": "200",
+   "Description": "Assembly Start"
+ },
+ {
+   "Code": "201",
+   "Description": "Acceptance"
+ },
+ {
+   "Code": "202",
+   "Description": "Master Lease Agreement"
+ },
+ {
+   "Code": "203",
+   "Description": "First ProducedThe date of first production of hydrocarbon from a well for the purpose of sales or on-lease use"
+ },
+ {
+   "Code": "204",
+   "Description": "Official Rail Car Interchange (Either Actual or Agreed Upon)"
+ },
+ {
+   "Code": "205",
+   "Description": "Transmitted"
+ },
+ {
+   "Code": "206",
+   "Description": "Status (Outside Processor)When outside processor established the status of the material"
+ },
+ {
+   "Code": "207",
+   "Description": "Status (Commercial)When producer established the status of the material"
+ },
+ {
+   "Code": "208",
+   "Description": "Lot Number Expiration"
+ },
+ {
+   "Code": "209",
+   "Description": "Contract Performance Start"
+ },
+ {
+   "Code": "210",
+   "Description": "Contract Performance Delivery"
+ },
+ {
+   "Code": "211",
+   "Description": "Service RequestedWhen warranty repair service was requested"
+ },
+ {
+   "Code": "212",
+   "Description": "Returned to Customer"
+ },
+ {
+   "Code": "213",
+   "Description": "Adjustment to Bill Dated"
+ },
+ {
+   "Code": "214",
+   "Description": "Date of Repair/Service"
+ },
+ {
+   "Code": "215",
+   "Description": "Interruption StartWhen an interruption in the airplane fueling process began"
+ },
+ {
+   "Code": "216",
+   "Description": "Interruption End"
+ },
+ {
+   "Code": "217",
+   "Description": "SpudWhen drilling started for a well"
+ },
+ {
+   "Code": "218",
+   "Description": "Initial CompletionWhen well was originally completed"
+ },
+ {
+   "Code": "219",
+   "Description": "Plugged and AbandonedWhen a well was plugged and abandoned after discontinuing to produce"
+ },
+ {
+   "Code": "220",
+   "Description": "PenaltyRange of penalty period"
+ },
+ {
+   "Code": "221",
+   "Description": "Penalty BeginDate on which penalty period begins"
+ },
+ {
+   "Code": "222",
+   "Description": "Birth"
+ },
+ {
+   "Code": "223",
+   "Description": "Birth Certificate"
+ },
+ {
+   "Code": "224",
+   "Description": "Adoption"
+ },
+ {
+   "Code": "225",
+   "Description": "Christening"
+ },
+ {
+   "Code": "226",
+   "Description": "Lease Commencement"
+ },
+ {
+   "Code": "227",
+   "Description": "Lease Term Start"
+ },
+ {
+   "Code": "228",
+   "Description": "Lease Term End"
+ },
+ {
+   "Code": "229",
+   "Description": "Rent Start"
+ },
+ {
+   "Code": "230",
+   "Description": "Installation"
+ },
+ {
+   "Code": "231",
+   "Description": "Progress Payment"
+ },
+ {
+   "Code": "232",
+   "Description": "Claim Statement Period Start"
+ },
+ {
+   "Code": "233",
+   "Description": "Claim Statement Period End"
+ },
+ {
+   "Code": "234",
+   "Description": "Settlement Date"
+ },
+ {
+   "Code": "235",
+   "Description": "Delayed Billing (Not Delayed Payment)"
+ },
+ {
+   "Code": "236",
+   "Description": "Lender Credit Check"
+ },
+ {
+   "Code": "237",
+   "Description": "Student Signed"
+ },
+ {
+   "Code": "238",
+   "Description": "Schedule ReleasePlanned release date for an item or product"
+ },
+ {
+   "Code": "239",
+   "Description": "BaselineThe baseline or original plan that progress is measured against"
+ },
+ {
+   "Code": "240",
+   "Description": "Baseline StartThe start date of baseline or original plan"
+ },
+ {
+   "Code": "241",
+   "Description": "Baseline CompleteThe complete date of the baseline or original plan"
+ },
+ {
+   "Code": "242",
+   "Description": "Actual StartThe actual start date for a task or activity"
+ },
+ {
+   "Code": "243",
+   "Description": "Actual CompleteThe actual complete date for a task or activity"
+ },
+ {
+   "Code": "244",
+   "Description": "Estimated StartThe revised plan or estimate of the start date for a task or activity"
+ },
+ {
+   "Code": "245",
+   "Description": "Estimated CompletionThe revised plan or estimate of the complete date for a task or activity"
+ },
+ {
+   "Code": "246",
+   "Description": "Start no earlier thanFixed start date for a task or activity - cannot begin before this date"
+ },
+ {
+   "Code": "247",
+   "Description": "Start no later thanFixed start date for a task or activity - cannot begin after this date"
+ },
+ {
+   "Code": "248",
+   "Description": "Finish no later thanFixed finish date for a task or activity - cannot end after this date"
+ },
+ {
+   "Code": "249",
+   "Description": "Finish no earlier thanFixed finish date for a task or activity - cannot end before this date"
+ },
+ {
+   "Code": "250",
+   "Description": "Mandatory (or Target) StartFixed start date - must begin on this date"
+ },
+ {
+   "Code": "251",
+   "Description": "Mandatory (or Target) FinishFixed finish date - must finish on this date"
+ },
+ {
+   "Code": "252",
+   "Description": "Early StartThe earliest date a task or activity can begin"
+ },
+ {
+   "Code": "253",
+   "Description": "Early FinishThe earliest date a task or activity can end"
+ },
+ {
+   "Code": "254",
+   "Description": "Late StartThe latest date a task or activity can begin"
+ },
+ {
+   "Code": "255",
+   "Description": "Late FinishThe latest date a task or activity can end"
+ },
+ {
+   "Code": "256",
+   "Description": "Scheduled StartThe scheduled start for a task or activity based on resource needs"
+ },
+ {
+   "Code": "257",
+   "Description": "Scheduled FinishThe scheduled finish for a task or activity based on resource needs"
+ },
+ {
+   "Code": "258",
+   "Description": "Original Early StartThe saved baseline or planned early start before current changes"
+ },
+ {
+   "Code": "259",
+   "Description": "Original Early FinishThe saved baseline or planned early finish before current changes"
+ },
+ {
+   "Code": "260",
+   "Description": "Rest DayA non-working day such a Saturday or Sunday"
+ },
+ {
+   "Code": "261",
+   "Description": "Rest StartThe beginning of a range for rest days (from)"
+ },
+ {
+   "Code": "262",
+   "Description": "Rest FinishThe end of a range of rest days (to)"
+ },
+ {
+   "Code": "263",
+   "Description": "HolidayA non-working day reserved for a company or national holiday"
+ },
+ {
+   "Code": "264",
+   "Description": "Holiday StartThe beginning of a range for holidays (from)"
+ },
+ {
+   "Code": "265",
+   "Description": "Holiday FinishThe end of a range of holidays (to)"
+ },
+ {
+   "Code": "266",
+   "Description": "BaseThe start of base date for a calendar reference - all dates fall after it"
+ },
+ {
+   "Code": "267",
+   "Description": "TimenowThe current reporting period reference, or current status"
+ },
+ {
+   "Code": "268",
+   "Description": "End Date of Support"
+ },
+ {
+   "Code": "269",
+   "Description": "Date Account Matures"
+ },
+ {
+   "Code": "270",
+   "Description": "Date Filed"
+ },
+ {
+   "Code": "271",
+   "Description": "Penalty EndDate on which penalty period ends"
+ },
+ {
+   "Code": "272",
+   "Description": "Exit Plant DateDate at which the product leaves the manufacturing site"
+ },
+ {
+   "Code": "273",
+   "Description": "Latest On Board Carrier DateLatest date on which the cargo must be on board the carrier"
+ },
+ {
+   "Code": "274",
+   "Description": "Requested Departure Date"
+ },
+ {
+   "Code": "275",
+   "Description": "ApprovedDate report was approved by contractor representative"
+ },
+ {
+   "Code": "276",
+   "Description": "Contract StartThe start date for a contract"
+ },
+ {
+   "Code": "277",
+   "Description": "Contract DefinitionThe date the contract was definitized"
+ },
+ {
+   "Code": "278",
+   "Description": "Last Item DeliveryThe date the last item will be delivered to the customer"
+ },
+ {
+   "Code": "279",
+   "Description": "Contract CompletionThe finish date for a contract"
+ },
+ {
+   "Code": "280",
+   "Description": "Date Course of Orthodontics Treatment Began or is Expected to Begin"
+ },
+ {
+   "Code": "281",
+   "Description": "Over Target Baseline MonthThe date a budget baseline went over the target budget amount"
+ },
+ {
+   "Code": "282",
+   "Description": "Previous ReportThe date a previous report was submitted"
+ },
+ {
+   "Code": "283",
+   "Description": "Funds Appropriation - StartThe date that funds appropriation begins"
+ },
+ {
+   "Code": "284",
+   "Description": "Funds Appropriation - EndThe date that funds appropriation ends"
+ },
+ {
+   "Code": "285",
+   "Description": "Employment or HireDate on which the subscriber or dependent is hired"
+ },
+ {
+   "Code": "286",
+   "Description": "RetirementDate on which the subscriber became retired"
+ },
+ {
+   "Code": "287",
+   "Description": "MedicareRange of dates when the subscriber or dependent is eligible to receive Medicare benefits"
+ },
+ {
+   "Code": "288",
+   "Description": "Consolidated Omnibus Budget Reconciliation Act (COBRA)Range of COBRA coverage"
+ },
+ {
+   "Code": "289",
+   "Description": "Premium Paid to DateRange of dates for which premium has been paid"
+ },
+ {
+   "Code": "290",
+   "Description": "Coordination of BenefitsRange for which coordination of benefits between insurers applies"
+ },
+ {
+   "Code": "291",
+   "Description": "PlanRange of dates for which the plan is in effect"
+ },
+ {
+   "Code": "292",
+   "Description": "BenefitRange of benefit coverage"
+ },
+ {
+   "Code": "293",
+   "Description": "EducationRange of dates when the subscriber or dependent is a student"
+ },
+ {
+   "Code": "294",
+   "Description": "Earnings Effective DateDate on which earnings become effective for applicable benefits"
+ },
+ {
+   "Code": "295",
+   "Description": "Primary Care ProviderRange of dates for which the services of the primary care provider are in effect"
+ },
+ {
+   "Code": "296",
+   "Description": "Initial Disability Period Return To Work"
+ },
+ {
+   "Code": "297",
+   "Description": "Initial Disability Period Last Day Worked"
+ },
+ {
+   "Code": "298",
+   "Description": "Latest AbsenceLatest occurrence of which the subscriber did not report to work"
+ },
+ {
+   "Code": "299",
+   "Description": "Illness"
+ },
+ {
+   "Code": "300",
+   "Description": "Enrollment Signature DateDate subscriber or dependent signed policy enrollment card"
+ },
+ {
+   "Code": "301",
+   "Description": "Consolidated Omnibus Budget Reconciliation Act (COBRA) Qualifying EventDate of the qualifying event which initiated COBRA benefits"
+ },
+ {
+   "Code": "302",
+   "Description": "MaintenanceDate on which the maintenance was performed"
+ },
+ {
+   "Code": "303",
+   "Description": "Maintenance EffectiveDate on which the maintenance is effective"
+ },
+ {
+   "Code": "304",
+   "Description": "Latest Visit or ConsultationDate subscriber or dependent last visited or consulted with a physician"
+ },
+ {
+   "Code": "305",
+   "Description": "Net Credit Service DateDate assigned by the employer to an employee who previously worked for them"
+ },
+ {
+   "Code": "306",
+   "Description": "Adjustment Effective DateDate on which the adjustment went into effect"
+ },
+ {
+   "Code": "307",
+   "Description": "EligibilityRange of dates when the subscriber or dependent were eligible for benefits"
+ },
+ {
+   "Code": "308",
+   "Description": "Pre-Award Survey"
+ },
+ {
+   "Code": "309",
+   "Description": "Plan TerminationDate on which the plan terminated"
+ },
+ {
+   "Code": "310",
+   "Description": "Date of ClosingThe date a property is sold"
+ },
+ {
+   "Code": "311",
+   "Description": "Latest Receiving Date/Cutoff Date"
+ },
+ {
+   "Code": "312",
+   "Description": "Salary DeferralDate on which the subscriber begins to defer a portion of their salary"
+ },
+ {
+   "Code": "313",
+   "Description": "CycleRange of dates as they pertain to a period of time"
+ },
+ {
+   "Code": "314",
+   "Description": "DisabilityRange of dates on which the physical or mental condition rendered the subscriber or dependent disabled"
+ },
+ {
+   "Code": "315",
+   "Description": "OffsetRange of dates for which the subscriber or dependent will be receiving other income"
+ },
+ {
+   "Code": "316",
+   "Description": "Prior Incorrect Date of BirthThe incorrect date of birth that was previously transmitted"
+ },
+ {
+   "Code": "317",
+   "Description": "Corrected Date of BirthReplaces previously transmitted incorrect date of birth"
+ },
+ {
+   "Code": "318",
+   "Description": "Added"
+ },
+ {
+   "Code": "319",
+   "Description": "Failed"
+ },
+ {
+   "Code": "320",
+   "Description": "Date Foreclosure Proceedings InstitutedThe date the first legal action is taken to terminate an owner's interest in realty begins"
+ },
+ {
+   "Code": "321",
+   "Description": "PurchasedDate product/extended coverage was purchased"
+ },
+ {
+   "Code": "322",
+   "Description": "Put into ServiceDate product, subassembly, or replacement part was put in-service"
+ },
+ {
+   "Code": "323",
+   "Description": "Replaced"
+ },
+ {
+   "Code": "324",
+   "Description": "Returned"
+ },
+ {
+   "Code": "325",
+   "Description": "Disbursement Date"
+ },
+ {
+   "Code": "326",
+   "Description": "Guarantee Date"
+ },
+ {
+   "Code": "327",
+   "Description": "Quarter Ending"
+ },
+ {
+   "Code": "328",
+   "Description": "Changed"
+ },
+ {
+   "Code": "329",
+   "Description": "TerminatedAny condition previously reported by the carrier as preventing the completion of a move or service has been terminated"
+ },
+ {
+   "Code": "330",
+   "Description": "Referral DateThe date when an educational official or teacher recommends that a student be evaluated for placement in a special education or other program"
+ },
+ {
+   "Code": "331",
+   "Description": "Evaluation DateThe date on which a student was assessed for placement in a special education or other program"
+ },
+ {
+   "Code": "332",
+   "Description": "Placement DateThe date which identifies when a student was enrolled in a special education or other program"
+ },
+ {
+   "Code": "333",
+   "Description": "Individual Education Plan (IEP)The date on which the plan specifying the special education instruction and services which a student is to receive was approved"
+ },
+ {
+   "Code": "334",
+   "Description": "Re-evaluation DateThe date on which the student's placement in special education or other programs will be re-assessed"
+ },
+ {
+   "Code": "335",
+   "Description": "Dismissal DateThe date on which the student exited from a special education or other program"
+ },
+ {
+   "Code": "336",
+   "Description": "Employment BeginDate on which the subscriber or dependent became employed"
+ },
+ {
+   "Code": "337",
+   "Description": "Employment EndDate on which the subscriber or dependent ceased to be employed"
+ },
+ {
+   "Code": "338",
+   "Description": "Medicare BeginDate on which Medicare benefits went into effect"
+ },
+ {
+   "Code": "339",
+   "Description": "Medicare EndDate on which Medicare benefits ceased to be in effect"
+ },
+ {
+   "Code": "340",
+   "Description": "Consolidated Omnibus Budget Reconciliation Act (COBRA) BeginDate on which COBRA benefits begin"
+ },
+ {
+   "Code": "341",
+   "Description": "Consolidated Omnibus Budget Reconciliation Act (COBRA) EndDate on which COBRA benefits end"
+ },
+ {
+   "Code": "342",
+   "Description": "Premium Paid to Date BeginDate for which premium began to be applied"
+ },
+ {
+   "Code": "343",
+   "Description": "Premium Paid to Date EndDate for which premium is paid through"
+ },
+ {
+   "Code": "344",
+   "Description": "Coordination of Benefits BeginDate on which Coordination of Benefits begin"
+ },
+ {
+   "Code": "345",
+   "Description": "Coordination of Benefits EndDate on which Coordination of Benefits end"
+ },
+ {
+   "Code": "346",
+   "Description": "Plan BeginDate on which the plan begins"
+ },
+ {
+   "Code": "347",
+   "Description": "Plan EndDate on which plan ends"
+ },
+ {
+   "Code": "348",
+   "Description": "Benefit BeginDate on which the subscriber's or dependent's benefit begin"
+ },
+ {
+   "Code": "349",
+   "Description": "Benefit EndDate on which the subscriber's or dependent's benefit ends"
+ },
+ {
+   "Code": "350",
+   "Description": "Education BeginDate on which the subscriber or dependent became a student"
+ },
+ {
+   "Code": "351",
+   "Description": "Education EndDate on which the subscriber or dependent ceased to be a student"
+ },
+ {
+   "Code": "352",
+   "Description": "Primary Care Provider BeginDate on which the subscriber's or dependent's primary care provider became effective"
+ },
+ {
+   "Code": "353",
+   "Description": "Primary Care Provider EndDate on which the primary care provider's service ended"
+ },
+ {
+   "Code": "354",
+   "Description": "Illness BeginDate on which illness began"
+ },
+ {
+   "Code": "355",
+   "Description": "Illness EndDate on which illness ended"
+ },
+ {
+   "Code": "356",
+   "Description": "Eligibility BeginDate on which eligibility begins"
+ },
+ {
+   "Code": "357",
+   "Description": "Eligibility EndDate on which eligibility ends"
+ },
+ {
+   "Code": "358",
+   "Description": "Cycle BeginDate on which the cycle begins"
+ },
+ {
+   "Code": "359",
+   "Description": "Cycle EndDate on which the cycle ends"
+ },
+ {
+   "Code": "360",
+   "Description": "Initial Disability Period StartDate on which the disability begins"
+ },
+ {
+   "Code": "361",
+   "Description": "Initial Disability Period EndDate on which the disability ends"
+ },
+ {
+   "Code": "362",
+   "Description": "Offset BeginDate subscriber or dependent begins receiving other income"
+ },
+ {
+   "Code": "363",
+   "Description": "Offset EndDate other income benefits cease"
+ },
+ {
+   "Code": "364",
+   "Description": "Plan Period Election BeginDate on which the pledged contribution begins"
+ },
+ {
+   "Code": "365",
+   "Description": "Plan Period Election EndDate on which the pledged contribution ended"
+ },
+ {
+   "Code": "366",
+   "Description": "Plan Period ElectionRange of dates for which the subscriber has pledged to contribute toward a benefit"
+ },
+ {
+   "Code": "367",
+   "Description": "Due to CustomerDate an item is due to a customer"
+ },
+ {
+   "Code": "368",
+   "Description": "SubmittalDate an item was submitted to a customer"
+ },
+ {
+   "Code": "369",
+   "Description": "Estimated Departure Date"
+ },
+ {
+   "Code": "370",
+   "Description": "Actual Departure Date"
+ },
+ {
+   "Code": "371",
+   "Description": "Estimated Arrival Date"
+ },
+ {
+   "Code": "372",
+   "Description": "Actual Arrival Date"
+ },
+ {
+   "Code": "373",
+   "Description": "Order Start"
+ },
+ {
+   "Code": "374",
+   "Description": "Order EndPoint after which data can no longer be used (or becomes invalid for use)"
+ },
+ {
+   "Code": "375",
+   "Description": "Delivery StartThe date that deliveries will begin"
+ },
+ {
+   "Code": "376",
+   "Description": "Delivery EndThe date that deliveries will end"
+ },
+ {
+   "Code": "377",
+   "Description": "Contract Costs ThroughDate through which the costs reported in the contractor's request for progress payment are current"
+ },
+ {
+   "Code": "378",
+   "Description": "Financial Information SubmissionDate of the submission of contractor financial information"
+ },
+ {
+   "Code": "379",
+   "Description": "Business Termination"
+ },
+ {
+   "Code": "380",
+   "Description": "Applicant Signed"
+ },
+ {
+   "Code": "381",
+   "Description": "Cosigner Signed"
+ },
+ {
+   "Code": "382",
+   "Description": "Enrollment"
+ },
+ {
+   "Code": "383",
+   "Description": "Adjusted HireDate of rehire is adjusted to give an employee credit for prior years of service, after a break in service has occurred"
+ },
+ {
+   "Code": "384",
+   "Description": "Credited ServiceRange of employment service used to determine the amount of plan benefits due the employee"
+ },
+ {
+   "Code": "385",
+   "Description": "Credited Service BeginThe start date from which an employee's length of service, as defined in the plan document, will be calculated"
+ },
+ {
+   "Code": "386",
+   "Description": "Credited Service EndThe end date to be used in the calculation of an employee's length of service, as defined in the plan document"
+ },
+ {
+   "Code": "387",
+   "Description": "Deferred DistributionDate to which the participant has elected to defer the distribution of plan benefits (for lump sum payments)"
+ },
+ {
+   "Code": "388",
+   "Description": "Payment CommencementDate of the initial benefit payment (for installment payments)"
+ },
+ {
+   "Code": "389",
+   "Description": "Payroll PeriodThe applicable payroll date for the financial transaction"
+ },
+ {
+   "Code": "390",
+   "Description": "Payroll Period BeginThe start date of the payroll cycle for the financial transaction"
+ },
+ {
+   "Code": "391",
+   "Description": "Payroll Period EndThe end date of the payroll cycle for the financial transaction"
+ },
+ {
+   "Code": "392",
+   "Description": "Plan EntryDate the employee's participation in the plan is effective"
+ },
+ {
+   "Code": "393",
+   "Description": "Plan Participation SuspensionDate the participant is suspended from the plan"
+ },
+ {
+   "Code": "394",
+   "Description": "RehireDate the participant is rehired, after termination"
+ },
+ {
+   "Code": "395",
+   "Description": "ReterminationDate the participant ends employment, after being rehired"
+ },
+ {
+   "Code": "396",
+   "Description": "TerminationDate the participant ends employment"
+ },
+ {
+   "Code": "397",
+   "Description": "ValuationThe date when the participant's total account balance is calculated"
+ },
+ {
+   "Code": "398",
+   "Description": "Vesting ServiceRange of employment service used to determine vesting for distribution of plan benefits"
+ },
+ {
+   "Code": "399",
+   "Description": "Vesting Service BeginThe start date from which an employee's vesting percentage, as defined in the plan document, will be calculated"
+ },
+ {
+   "Code": "400",
+   "Description": "Vesting Service End"
+ },
+ {
+   "Code": "401",
+   "Description": "Duplicate Bill"
+ },
+ {
+   "Code": "402",
+   "Description": "Adjustment Promised"
+ },
+ {
+   "Code": "403",
+   "Description": "Adjustment Processed"
+ },
+ {
+   "Code": "404",
+   "Description": "Year Ending"
+ },
+ {
+   "Code": "405",
+   "Description": "ProductionUsed to identify dates and times that operations or processes were performed"
+ },
+ {
+   "Code": "406",
+   "Description": "Material ClassificationUsed to identify dates and times materials were classified or reclassified"
+ },
+ {
+   "Code": "408",
+   "Description": "Weighed"
+ },
+ {
+   "Code": "409",
+   "Description": "Date of Deed in LieuThe date a voluntary conveyance of a property by deed in lieu is recorded"
+ },
+ {
+   "Code": "410",
+   "Description": "Date of Firm CommitmentThe date an obligation to ensure the mortgage is issued"
+ },
+ {
+   "Code": "411",
+   "Description": "Expiration Date of Extension to ForecloseThe last day of a given time limit to commence foreclosure"
+ },
+ {
+   "Code": "412",
+   "Description": "Date of Notice to ConveyThe date of the authorization to assign the contractual rights of a mortgage"
+ },
+ {
+   "Code": "413",
+   "Description": "Date of Release of BankruptcyThe date of release from bankruptcy status"
+ },
+ {
+   "Code": "414",
+   "Description": "Optimistic Early StartBest case earliest date a task or activity can begin"
+ },
+ {
+   "Code": "415",
+   "Description": "Optimistic Early FinishBest case earliest date a task or activity can end"
+ },
+ {
+   "Code": "416",
+   "Description": "Optimistic Late StartBest case latest date a task or activity can begin"
+ },
+ {
+   "Code": "417",
+   "Description": "Optimistic Late FinishBest case latest date a task or activity can end"
+ },
+ {
+   "Code": "418",
+   "Description": "Most Likely Early StartMost likely earliest date a task or activity can begin"
+ },
+ {
+   "Code": "419",
+   "Description": "Most Likely Early FinishMost likely earliest date a task or activity can end"
+ },
+ {
+   "Code": "420",
+   "Description": "Most Likely Late StartMost likely latest date a task or activity can begin"
+ },
+ {
+   "Code": "421",
+   "Description": "Most Likely Late FinishMost likely latest date a task or activity can end"
+ },
+ {
+   "Code": "422",
+   "Description": "Pessimistic Early StartWorst case earliest date a task or activity can begin"
+ },
+ {
+   "Code": "423",
+   "Description": "Pessimistic Early FinishWorst case earliest date a task or activity can end"
+ },
+ {
+   "Code": "424",
+   "Description": "Pessimistic Late StartWorst case latest date a task or activity can begin"
+ },
+ {
+   "Code": "425",
+   "Description": "Pessimistic Late FinishWorst case latest date a task or activity can end"
+ },
+ {
+   "Code": "426",
+   "Description": "First Payment Due"
+ },
+ {
+   "Code": "427",
+   "Description": "First Interest Payment Due"
+ },
+ {
+   "Code": "428",
+   "Description": "Subsequent Interest Payment Due"
+ },
+ {
+   "Code": "429",
+   "Description": "Irregular Interest Payment Due"
+ },
+ {
+   "Code": "430",
+   "Description": "Guarantor Received"
+ },
+ {
+   "Code": "431",
+   "Description": "Onset of Current Symptoms or IllnessDate first symptoms appeared"
+ },
+ {
+   "Code": "432",
+   "Description": "SubmissionDate on which claim billing information was sent to payer"
+ },
+ {
+   "Code": "433",
+   "Description": "Removed"
+ },
+ {
+   "Code": "434",
+   "Description": "StatementDate on which billing document was created"
+ },
+ {
+   "Code": "435",
+   "Description": "AdmissionDate of entrance to a health care establishment"
+ },
+ {
+   "Code": "436",
+   "Description": "Insurance Card"
+ },
+ {
+   "Code": "437",
+   "Description": "Spouse RetirementDate on which patient's husband or wife has retired from his or her place of employment"
+ },
+ {
+   "Code": "438",
+   "Description": "Onset of Similar Symptoms or IllnessDate symptoms related to current illness first appeared"
+ },
+ {
+   "Code": "439",
+   "Description": "AccidentDate mishap occurred"
+ },
+ {
+   "Code": "440",
+   "Description": "Release of InformationDate patient signified it was acceptable to distribute pertinent information to other parties"
+ },
+ {
+   "Code": "441",
+   "Description": "Prior PlacementDate medical device was last placed or arranged"
+ },
+ {
+   "Code": "442",
+   "Description": "Date of DeathDate life terminated"
+ },
+ {
+   "Code": "443",
+   "Description": "Peer Review Organization (PRO) Approved StayStart and end date of approved confinement"
+ },
+ {
+   "Code": "444",
+   "Description": "First Visit or ConsultationDate patient first sought medical assistance"
+ },
+ {
+   "Code": "445",
+   "Description": "Initial PlacementDate medical device was positioned or arranged"
+ },
+ {
+   "Code": "446",
+   "Description": "ReplacementDate medical device was reinstalled or rearranged"
+ },
+ {
+   "Code": "447",
+   "Description": "OccurrenceDate on which an event happened"
+ },
+ {
+   "Code": "448",
+   "Description": "Occurrence SpanStart and end date on which a span of events happened"
+ },
+ {
+   "Code": "449",
+   "Description": "Occurrence Span FromDate on which span of events started"
+ },
+ {
+   "Code": "450",
+   "Description": "Occurrence Span ToDate on which span of events ended"
+ },
+ {
+   "Code": "451",
+   "Description": "Initial Fee DueDate the first of one or more payments is due"
+ },
+ {
+   "Code": "452",
+   "Description": "Appliance PlacementDate orthodontic devices were arranged"
+ },
+ {
+   "Code": "453",
+   "Description": "Acute Manifestation of a Chronic ConditionDate serious symptoms were exhibited for a long term illness"
+ },
+ {
+   "Code": "454",
+   "Description": "Initial TreatmentDate medical treatment first began"
+ },
+ {
+   "Code": "455",
+   "Description": "Last X-RayDate of the most recent x-ray"
+ },
+ {
+   "Code": "456",
+   "Description": "SurgeryDate on which operation was performed"
+ },
+ {
+   "Code": "457",
+   "Description": "Continuous Passive Motion (CPM)Date patient began using a device to provide uninterrupted motion not produced by active efforts"
+ },
+ {
+   "Code": "458",
+   "Description": "CertificationDate of a document attesting to a fact"
+ },
+ {
+   "Code": "459",
+   "Description": "Nursing Home FromDate on which patient entered nursing home"
+ },
+ {
+   "Code": "460",
+   "Description": "Nursing Home ToDate on which patient was released from nursing home"
+ },
+ {
+   "Code": "461",
+   "Description": "Last CertificationDate of the most recent document attesting to a fact"
+ },
+ {
+   "Code": "462",
+   "Description": "Date of Local Office Approval of Conveyance of Occupied Real Estate PropertyThe date local office approves of the transfer of an occupied property"
+ },
+ {
+   "Code": "463",
+   "Description": "Begin TherapyDate treatment of physical or mental disorder started"
+ },
+ {
+   "Code": "464",
+   "Description": "Oxygen Therapy FromDate treatment with oxygen started"
+ },
+ {
+   "Code": "465",
+   "Description": "Oxygen Therapy ToDate treatment with oxygen ceased"
+ },
+ {
+   "Code": "466",
+   "Description": "Oxygen TherapyBegin and end dates of treatment with oxygen"
+ },
+ {
+   "Code": "467",
+   "Description": "SignatureDate on which the accompanying signature was received"
+ },
+ {
+   "Code": "468",
+   "Description": "Prescription FillDate on which drug order was filled"
+ },
+ {
+   "Code": "469",
+   "Description": "Provider SignatureDate supplier of medical service signified the service in question was, in fact, provided"
+ },
+ {
+   "Code": "470",
+   "Description": "Date of Local Office Certification of Conveyance of Damaged Real Estate PropertyThe date local office approves of the transfer of a damaged property or the date of the mortgagee's certification that adequate fire insurance was not obtainable"
+ },
+ {
+   "Code": "471",
+   "Description": "PrescriptionDate on which prescription was written"
+ },
+ {
+   "Code": "472",
+   "Description": "Service"
+ },
+ {
+   "Code": "473",
+   "Description": "Medicaid BeginDate patient became eligible for Medicaid benefits"
+ },
+ {
+   "Code": "474",
+   "Description": "Medicaid EndDate patient no longer eligible for Medicaid benefits"
+ },
+ {
+   "Code": "475",
+   "Description": "MedicaidStart and end of effective period for Medicaid"
+ },
+ {
+   "Code": "476",
+   "Description": "Peer Review Organization (PRO) Approved Stay FromDate start of confinement was approved"
+ },
+ {
+   "Code": "477",
+   "Description": "Peer Review Organization (PRO) Approved Stay ToDate confinement approval ceased"
+ },
+ {
+   "Code": "478",
+   "Description": "Prescription FromStart of prescription period"
+ },
+ {
+   "Code": "479",
+   "Description": "Prescription ToEnd of prescription period"
+ },
+ {
+   "Code": "480",
+   "Description": "Arterial Blood Gas TestDate of test to determine gas content in blood circulating from the heart, at rest, breathing room air"
+ },
+ {
+   "Code": "481",
+   "Description": "Oxygen Saturation TestDate on which oxygen saturation testing occurred"
+ },
+ {
+   "Code": "482",
+   "Description": "Pregnancy BeginDate pregnancy estimated to begin"
+ },
+ {
+   "Code": "483",
+   "Description": "Pregnancy EndDate pregnancy end, whether normal or abnormal delivery"
+ },
+ {
+   "Code": "484",
+   "Description": "Last Menstrual Period"
+ },
+ {
+   "Code": "485",
+   "Description": "Injury BeginDate damage was inflicted to the body by an external source"
+ },
+ {
+   "Code": "486",
+   "Description": "Injury EndDate damage inflicted to the body by an external source ceased"
+ },
+ {
+   "Code": "487",
+   "Description": "Nursing HomeFacility for those unable to care for themselves"
+ },
+ {
+   "Code": "488",
+   "Description": "Collateral DependentRange of collateral dependent coverage"
+ },
+ {
+   "Code": "489",
+   "Description": "Collateral Dependent BeginDate on which collateral dependent coverage begins"
+ },
+ {
+   "Code": "490",
+   "Description": "Collateral Dependent EndDate on which collateral dependent coverage ends"
+ },
+ {
+   "Code": "491",
+   "Description": "Sponsored DependentRange of sponsoring dependent coverage"
+ },
+ {
+   "Code": "492",
+   "Description": "Sponsored Dependent BeginDate on which sponsored dependent coverage begins"
+ },
+ {
+   "Code": "493",
+   "Description": "Sponsored Dependent EndDate on which sponsored dependent coverage ends"
+ },
+ {
+   "Code": "494",
+   "Description": "DeductibleDate for which deductible is applied"
+ },
+ {
+   "Code": "495",
+   "Description": "Out-of-PocketDate for which out of pocket is applied"
+ },
+ {
+   "Code": "496",
+   "Description": "Contract Audit Date"
+ },
+ {
+   "Code": "497",
+   "Description": "Latest Delivery Date at Pier"
+ },
+ {
+   "Code": "498",
+   "Description": "Mortgagee Reported Curtailment DateThe date the mortgagee failed to meet a mandatory time requirement"
+ },
+ {
+   "Code": "499",
+   "Description": "Mortgagee Official Signature DateThe date the mortgagee's representative signs the claim for mortgage insurance benefits form"
+ },
+ {
+   "Code": "500",
+   "Description": "ResubmissionDate when original transaction should be resubmitted for further consideration"
+ },
+ {
+   "Code": "501",
+   "Description": "Expected ReplyDate when response may be expected"
+ },
+ {
+   "Code": "502",
+   "Description": "Dropped to Less than Half TimeDate on which the student ceased to be enrolled at least half time"
+ },
+ {
+   "Code": "503",
+   "Description": "Repayment BeginDate on which repayment of the loan begins"
+ },
+ {
+   "Code": "504",
+   "Description": "Loan Servicing TransferDate on which the loan is transferred from one servicer to another servicer"
+ },
+ {
+   "Code": "505",
+   "Description": "Loan PurchaseDate on which the ownership of the loan changes"
+ },
+ {
+   "Code": "506",
+   "Description": "Last NotificationDate on which the lender was last notified of the less-than-half time information"
+ },
+ {
+   "Code": "507",
+   "Description": "ExtractDate on which the file was extracted from the database"
+ },
+ {
+   "Code": "508",
+   "Description": "ExtendedThe extended date for a performance requirement"
+ },
+ {
+   "Code": "509",
+   "Description": "Servicer Signature DateThe date an authorized representative of the lender servicing the mortgage signs the claim for mortgage insurance benefits form"
+ },
+ {
+   "Code": "510",
+   "Description": "Date Packed"
+ },
+ {
+   "Code": "511",
+   "Description": "Shelf Life Expiration"
+ },
+ {
+   "Code": "512",
+   "Description": "Warranty Expiration"
+ },
+ {
+   "Code": "513",
+   "Description": "Overhauled"
+ },
+ {
+   "Code": "514",
+   "Description": "Transferred"
+ },
+ {
+   "Code": "515",
+   "Description": "Notified"
+ },
+ {
+   "Code": "516",
+   "Description": "Discovered"
+ },
+ {
+   "Code": "517",
+   "Description": "Inspected"
+ },
+ {
+   "Code": "518",
+   "Description": "Voucher (Date of)"
+ },
+ {
+   "Code": "519",
+   "Description": "Date Bankruptcy FiledDate of last bankruptcy action"
+ },
+ {
+   "Code": "520",
+   "Description": "Date of DamageThe date that the property became damaged"
+ },
+ {
+   "Code": "521",
+   "Description": "Date Hazard Insurance Policy CancelledThe date the hazard insurance policy was cancelled"
+ },
+ {
+   "Code": "522",
+   "Description": "Expiration Date to Submit Title EvidenceThe last day of an approved extension to submit title evidence without penalty"
+ },
+ {
+   "Code": "523",
+   "Description": "Date of ClaimThe date the claim form is prepared"
+ },
+ {
+   "Code": "524",
+   "Description": "Date of Notice of Referral for AssignmentThe date mortgagors are notified in writing that it is their lender's opinion that they are qualified for an assignment program and that their defaulted mortgage should be assigned"
+ },
+ {
+   "Code": "525",
+   "Description": "Date of Notice of Probable Ineligibility for AssignmentThe date mortgagors are notified in writing that it is their lender's opinion that they are not qualified for an assignment program but they may apply directly to the program sponsor for consideration"
+ },
+ {
+   "Code": "526",
+   "Description": "Date of Foreclosure NoticeThe date the mortgagee notifies the mortgage insurer that foreclosure has been initiated"
+ },
+ {
+   "Code": "527",
+   "Description": "Expiration of Foreclosure TimeframeThe last day of an extension of the time requirement to institute foreclosure proceedings on an insured mortgage"
+ },
+ {
+   "Code": "528",
+   "Description": "Date Possessory Action InitiatedThe date the mortgagee initiates action to take possession of a property secured by a mortgage in default"
+ },
+ {
+   "Code": "529",
+   "Description": "Date of PossessionThe date a mortgagee acquires possession of a property secured by a mortgage in default"
+ },
+ {
+   "Code": "530",
+   "Description": "Date of Last Installment Received"
+ },
+ {
+   "Code": "531",
+   "Description": "Date of Acquisition of TitleThe date the mortgagee acquires good and marketable title to a property secured by a mortgage in default"
+ },
+ {
+   "Code": "532",
+   "Description": "Expiration of Extension to ConveyThe last day of an extension of the time requirement to convey a property"
+ },
+ {
+   "Code": "533",
+   "Description": "Date of Assignment ApprovalThe date approval is given to assign the contract rights of a mortgage"
+ },
+ {
+   "Code": "534",
+   "Description": "Date of Assignment RejectionThe date a request to assign the contract rights of a mortgage is rejected"
+ },
+ {
+   "Code": "535",
+   "Description": "Curtailment Date from Advice of PaymentThe date to which interest was curtailed"
+ },
+ {
+   "Code": "536",
+   "Description": "Expiration of Extension to Submit Fiscal DataThe date of the expiration of extension given to submit fiscal data"
+ },
+ {
+   "Code": "537",
+   "Description": "Date Documentation, or Paperwork, or Both Was Sent"
+ },
+ {
+   "Code": "538",
+   "Description": "Makegood Commercial Date"
+ },
+ {
+   "Code": "539",
+   "Description": "Policy Effective"
+ },
+ {
+   "Code": "540",
+   "Description": "Policy Expiration"
+ },
+ {
+   "Code": "541",
+   "Description": "Employee Effective Date of Coverage"
+ },
+ {
+   "Code": "542",
+   "Description": "Claim Administrator Notified of Employee Legal Representation"
+ },
+ {
+   "Code": "543",
+   "Description": "Last Premium Paid Date"
+ },
+ {
+   "Code": "544",
+   "Description": "Employer Knowledge of the Injury"
+ },
+ {
+   "Code": "545",
+   "Description": "Claim Administrator Knowledge of the Injury"
+ },
+ {
+   "Code": "546",
+   "Description": "Date of Maximum Medical Improvement"
+ },
+ {
+   "Code": "547",
+   "Description": "Date of Loan"
+ },
+ {
+   "Code": "548",
+   "Description": "Date of Advance"
+ },
+ {
+   "Code": "549",
+   "Description": "Beginning Lay DateFirst date a vessel may call at the port"
+ },
+ {
+   "Code": "550",
+   "Description": "Certificate Effective"
+ },
+ {
+   "Code": "551",
+   "Description": "Benefit Application Date"
+ },
+ {
+   "Code": "552",
+   "Description": "Actual Return to Work"
+ },
+ {
+   "Code": "553",
+   "Description": "Released Return to Work"
+ },
+ {
+   "Code": "554",
+   "Description": "Ending Lay DateDate by which the vessel will call at the port"
+ },
+ {
+   "Code": "555",
+   "Description": "Employee Wages Ceased"
+ },
+ {
+   "Code": "556",
+   "Description": "Last Salary Increase"
+ },
+ {
+   "Code": "557",
+   "Description": "Employee Laid Off"
+ },
+ {
+   "Code": "558",
+   "Description": "Injury or Illness"
+ },
+ {
+   "Code": "559",
+   "Description": "Oldest Unpaid InstallmentThe due date of the oldest complete mortgage payment that has not been paid"
+ },
+ {
+   "Code": "560",
+   "Description": "Preforeclosure Acceptance DateThe date that the mortgagor and the mortgagee accepts a preforeclosure acceptance plan"
+ },
+ {
+   "Code": "561",
+   "Description": "Preforeclosure Sale Closing DateThe date that the mortgagor and the mortgagee accept a preforeclosure sales closing plan"
+ },
+ {
+   "Code": "562",
+   "Description": "Date of First Uncured Default"
+ },
+ {
+   "Code": "563",
+   "Description": "Date Default Was Cured"
+ },
+ {
+   "Code": "564",
+   "Description": "Date of First Mortgage Payment"
+ },
+ {
+   "Code": "565",
+   "Description": "Date of Property Inspection"
+ },
+ {
+   "Code": "566",
+   "Description": "Date Total Amount of Delinquency Reported"
+ },
+ {
+   "Code": "567",
+   "Description": "Date Outstanding Loan Balance Reported"
+ },
+ {
+   "Code": "568",
+   "Description": "Date Foreclosure Sale Scheduled"
+ },
+ {
+   "Code": "569",
+   "Description": "Date Foreclosure Held"
+ },
+ {
+   "Code": "570",
+   "Description": "Date Redemption Period Ends"
+ },
+ {
+   "Code": "571",
+   "Description": "Date Voluntary Conveyance AcceptedThe date voluntary conveyance of the property by the mortgagee holding the defaulted mortgage is accepted by the Federal Housing Commissioner"
+ },
+ {
+   "Code": "572",
+   "Description": "Date Property Sold"
+ },
+ {
+   "Code": "573",
+   "Description": "Date Claim Paid"
+ },
+ {
+   "Code": "574",
+   "Description": "Action Begin DateThe date a resolution action such as scheduling a repayment plan or a delay action such as Chapter 7 bankruptcy filing begins"
+ },
+ {
+   "Code": "575",
+   "Description": "Projected Action End Date"
+ },
+ {
+   "Code": "576",
+   "Description": "Action End Date"
+ },
+ {
+   "Code": "577",
+   "Description": "Original Maturity Date"
+ },
+ {
+   "Code": "578",
+   "Description": "Date Referred to Attorney for Foreclosure"
+ },
+ {
+   "Code": "579",
+   "Description": "Planned Release"
+ },
+ {
+   "Code": "580",
+   "Description": "Actual Release"
+ },
+ {
+   "Code": "581",
+   "Description": "Contract Period"
+ },
+ {
+   "Code": "582",
+   "Description": "Report Period"
+ },
+ {
+   "Code": "583",
+   "Description": "Suspension"
+ },
+ {
+   "Code": "584",
+   "Description": "Reinstatement"
+ },
+ {
+   "Code": "585",
+   "Description": "Report"
+ },
+ {
+   "Code": "586",
+   "Description": "First Contact"
+ },
+ {
+   "Code": "587",
+   "Description": "Projected Foreclosure Sale Date"
+ },
+ {
+   "Code": "589",
+   "Description": "Date Assignment Filed for RecordThe date the transfer of the contract right to real estate is filed for record with the recording authority"
+ },
+ {
+   "Code": "590",
+   "Description": "Date of AppraisalThe date the value of a property is assessed"
+ },
+ {
+   "Code": "591",
+   "Description": "Expiration Date of Extension to AssignThe last day of a given time limit to assign the contractual rights of a mortgage"
+ },
+ {
+   "Code": "592",
+   "Description": "Date of Extension to ConveyThe last day of a given time limit to complete the transfer of real property"
+ },
+ {
+   "Code": "593",
+   "Description": "Date Hazard Insurance Policy RefusedThe date the insurance carrier refused to renew the policy on a property"
+ },
+ {
+   "Code": "594",
+   "Description": "High Fabrication Release AuthorizationThe date of the purchaser's program number that authorizes the highest amount of material production"
+ },
+ {
+   "Code": "595",
+   "Description": "High Raw Material AuthorizationThe date of the purchaser's program number that authorizes the highest amount of raw material or purchased components in their original state to be secured for production"
+ },
+ {
+   "Code": "596",
+   "Description": "Material Change Notice"
+ },
+ {
+   "Code": "597",
+   "Description": "Latest Delivery Date at Rail Ramp"
+ },
+ {
+   "Code": "598",
+   "Description": "Rejected"
+ },
+ {
+   "Code": "599",
+   "Description": "Repayment Schedule Sent"
+ },
+ {
+   "Code": "600",
+   "Description": "As Of"
+ },
+ {
+   "Code": "601",
+   "Description": "First Submission"
+ },
+ {
+   "Code": "602",
+   "Description": "Subsequent Submission"
+ },
+ {
+   "Code": "603",
+   "Description": "Renewal"
+ },
+ {
+   "Code": "604",
+   "Description": "Withdrawn"
+ },
+ {
+   "Code": "606",
+   "Description": "Certification Period Start"
+ },
+ {
+   "Code": "607",
+   "Description": "Certification Revision"
+ },
+ {
+   "Code": "608",
+   "Description": "Continuous Coverage Date(s)"
+ },
+ {
+   "Code": "609",
+   "Description": "Prearranged Deal Match"
+ },
+ {
+   "Code": "610",
+   "Description": "Contingency End"
+ },
+ {
+   "Code": "611",
+   "Description": "Oxygen Therapy EvaluationThe date the patient was last examined by the physician to determine the need for oxygen therapy"
+ },
+ {
+   "Code": "612",
+   "Description": "Shut InThe date when the valves are closed or the pump is stopped at the wellhead"
+ },
+ {
+   "Code": "613",
+   "Description": "Allowable EffectiveThe date the report is effective for allowable purposes"
+ },
+ {
+   "Code": "614",
+   "Description": "First Sales"
+ },
+ {
+   "Code": "615",
+   "Description": "Date Acquired"
+ },
+ {
+   "Code": "616",
+   "Description": "Interviewer Signed"
+ },
+ {
+   "Code": "617",
+   "Description": "Application Logged Date"
+ },
+ {
+   "Code": "618",
+   "Description": "Review Date"
+ },
+ {
+   "Code": "619",
+   "Description": "Decision Date"
+ },
+ {
+   "Code": "620",
+   "Description": "Previously Resided"
+ },
+ {
+   "Code": "621",
+   "Description": "Reported"
+ },
+ {
+   "Code": "622",
+   "Description": "Checked"
+ },
+ {
+   "Code": "623",
+   "Description": "Settled"
+ },
+ {
+   "Code": "624",
+   "Description": "Presently Residing"
+ },
+ {
+   "Code": "625",
+   "Description": "Employed in this Position"
+ },
+ {
+   "Code": "626",
+   "Description": "Verified"
+ },
+ {
+   "Code": "627",
+   "Description": "Second Admission DateDate of second admission to a health care facility which occurred during the service period of this claim"
+ },
+ {
+   "Code": "629",
+   "Description": "Account Opened"
+ },
+ {
+   "Code": "630",
+   "Description": "Account Closed"
+ },
+ {
+   "Code": "631",
+   "Description": "Property Acquired"
+ },
+ {
+   "Code": "632",
+   "Description": "Property Built"
+ },
+ {
+   "Code": "633",
+   "Description": "Employed in this Profession"
+ },
+ {
+   "Code": "634",
+   "Description": "Next Review Date"
+ },
+ {
+   "Code": "635",
+   "Description": "Initial Contact Date"
+ },
+ {
+   "Code": "636",
+   "Description": "Date of Last Update"
+ },
+ {
+   "Code": "637",
+   "Description": "Second Discharge DateDate of second discharge from a health care facility which occurred during the service period of this claim"
+ },
+ {
+   "Code": "638",
+   "Description": "Date of Last Draw"
+ },
+ {
+   "Code": "640",
+   "Description": "Complaint"
+ },
+ {
+   "Code": "641",
+   "Description": "Option"
+ },
+ {
+   "Code": "642",
+   "Description": "Solicitation"
+ },
+ {
+   "Code": "643",
+   "Description": "Clause"
+ },
+ {
+   "Code": "644",
+   "Description": "Meeting"
+ },
+ {
+   "Code": "646",
+   "Description": "Rental Period"
+ },
+ {
+   "Code": "647",
+   "Description": "Next Pay Increase"
+ },
+ {
+   "Code": "648",
+   "Description": "Period Covered by Source Documents"
+ },
+ {
+   "Code": "649",
+   "Description": "Document Due"
+ },
+ {
+   "Code": "650",
+   "Description": "Court Notice"
+ },
+ {
+   "Code": "651",
+   "Description": "Expected Funding Date"
+ },
+ {
+   "Code": "652",
+   "Description": "Assignment Recorded"
+ },
+ {
+   "Code": "653",
+   "Description": "Case Reopened"
+ },
+ {
+   "Code": "655",
+   "Description": "Previous Court Event"
+ },
+ {
+   "Code": "656",
+   "Description": "Last Date to Object"
+ },
+ {
+   "Code": "657",
+   "Description": "Court Event"
+ },
+ {
+   "Code": "658",
+   "Description": "Last Date to File a Claim"
+ },
+ {
+   "Code": "659",
+   "Description": "Case Converted"
+ },
+ {
+   "Code": "660",
+   "Description": "Debt Incurred"
+ },
+ {
+   "Code": "661",
+   "Description": "Judgment"
+ },
+ {
+   "Code": "662",
+   "Description": "Wages Start"
+ },
+ {
+   "Code": "663",
+   "Description": "Wages End"
+ },
+ {
+   "Code": "664",
+   "Description": "Date Through Which Property Taxes Have Been Paid"
+ },
+ {
+   "Code": "665",
+   "Description": "Paid Through Date"
+ },
+ {
+   "Code": "666",
+   "Description": "Date Paid"
+ },
+ {
+   "Code": "667",
+   "Description": "Anesthesia Administration"
+ },
+ {
+   "Code": "668",
+   "Description": "Price Protection"
+ },
+ {
+   "Code": "669",
+   "Description": "Claim IncurredThe date a debt or obligation arises or is incurred"
+ },
+ {
+   "Code": "670",
+   "Description": "Book Entry Delivery"
+ },
+ {
+   "Code": "671",
+   "Description": "Rate Adjustment"
+ },
+ {
+   "Code": "672",
+   "Description": "Next Installment Due Date"
+ },
+ {
+   "Code": "673",
+   "Description": "Daylight Overdraft TimeTime a Fed Wire is processed by the Federal Reserve"
+ },
+ {
+   "Code": "674",
+   "Description": "Presentment DateDate a Letter of Credit is presented"
+ },
+ {
+   "Code": "675",
+   "Description": "Negotiated Extension DateNew date to which a Letter of Credit extension is negotiated"
+ },
+ {
+   "Code": "681",
+   "Description": "Remittance"
+ },
+ {
+   "Code": "682",
+   "Description": "Security Rate Adjustment"
+ },
+ {
+   "Code": "683",
+   "Description": "Filing Period"
+ },
+ {
+   "Code": "684",
+   "Description": "Review Period End"
+ },
+ {
+   "Code": "685",
+   "Description": "Requested Settlement"
+ },
+ {
+   "Code": "686",
+   "Description": "Last Screening"
+ },
+ {
+   "Code": "687",
+   "Description": "Confinement"
+ },
+ {
+   "Code": "688",
+   "Description": "Arrested"
+ },
+ {
+   "Code": "689",
+   "Description": "Convicted"
+ },
+ {
+   "Code": "690",
+   "Description": "Interviewed"
+ },
+ {
+   "Code": "691",
+   "Description": "Last Visit"
+ },
+ {
+   "Code": "692",
+   "Description": "Recovery"
+ },
+ {
+   "Code": "693",
+   "Description": "Time in U.S."
+ },
+ {
+   "Code": "694",
+   "Description": "Future PeriodRange of future activity"
+ },
+ {
+   "Code": "695",
+   "Description": "Previous PeriodRange of previous activity"
+ },
+ {
+   "Code": "696",
+   "Description": "Interest Paid To"
+ },
+ {
+   "Code": "697",
+   "Description": "Date of Seizure"
+ },
+ {
+   "Code": "699",
+   "Description": "SetoffDate creditor reduced claim by amount of debtor's claim against creditor"
+ },
+ {
+   "Code": "700",
+   "Description": "Override Date for Settlement"
+ },
+ {
+   "Code": "701",
+   "Description": "Settlement Date (From Interline Settlement System (ISS) only)"
+ },
+ {
+   "Code": "702",
+   "Description": "Sending Road Time Stamp"
+ },
+ {
+   "Code": "703",
+   "Description": "Retransmission Time Stamp"
+ },
+ {
+   "Code": "704",
+   "Description": "Delivery Appointment Date and TimeThe date and time associated with an appointment number"
+ },
+ {
+   "Code": "705",
+   "Description": "Interest Paid Through"
+ },
+ {
+   "Code": "706",
+   "Description": "Date Material Usage Suspended"
+ },
+ {
+   "Code": "707",
+   "Description": "Last Payment Made"
+ },
+ {
+   "Code": "708",
+   "Description": "Past Due"
+ },
+ {
+   "Code": "709",
+   "Description": "Analysis Month Ending"
+ },
+ {
+   "Code": "710",
+   "Description": "Date of Specification"
+ },
+ {
+   "Code": "711",
+   "Description": "Date of Standard"
+ },
+ {
+   "Code": "712",
+   "Description": "Return to Work Part Time"
+ },
+ {
+   "Code": "713",
+   "Description": "Paid-through Date for Salary Continuation"
+ },
+ {
+   "Code": "714",
+   "Description": "Paid-through Date for Vacation Pay"
+ },
+ {
+   "Code": "715",
+   "Description": "Paid-through Date for Accrued Sick Pay"
+ },
+ {
+   "Code": "716",
+   "Description": "Appraisal Ordered"
+ },
+ {
+   "Code": "717",
+   "Description": "Date of Operation"
+ },
+ {
+   "Code": "718",
+   "Description": "Best Time to Call"
+ },
+ {
+   "Code": "719",
+   "Description": "Verbal Report Needed"
+ },
+ {
+   "Code": "720",
+   "Description": "Estimated Escrow Closing"
+ },
+ {
+   "Code": "721",
+   "Description": "Permit Year"
+ },
+ {
+   "Code": "722",
+   "Description": "Remodeling Completed"
+ },
+ {
+   "Code": "723",
+   "Description": "Current Month Ending"
+ },
+ {
+   "Code": "724",
+   "Description": "Previous Month Ending"
+ },
+ {
+   "Code": "725",
+   "Description": "Cycle to Date"
+ },
+ {
+   "Code": "726",
+   "Description": "Year to Date"
+ },
+ {
+   "Code": "727",
+   "Description": "On Hold"
+ },
+ {
+   "Code": "728",
+   "Description": "Off Hold"
+ },
+ {
+   "Code": "729",
+   "Description": "Facsimile Due By"
+ },
+ {
+   "Code": "730",
+   "Description": "Reporting Cycle Date"
+ },
+ {
+   "Code": "731",
+   "Description": "Last Paid Installment Date"
+ },
+ {
+   "Code": "732",
+   "Description": "Claims MadeDate that determines Liability coverage under a Claims Made policy"
+ },
+ {
+   "Code": "733",
+   "Description": "Date of Last Payment Received"
+ },
+ {
+   "Code": "734",
+   "Description": "Curtailment Date"
+ },
+ {
+   "Code": "736",
+   "Description": "Pool Settlement"
+ },
+ {
+   "Code": "737",
+   "Description": "Next Interest Change Date"
+ },
+ {
+   "Code": "738",
+   "Description": "Most Recent Hemoglobin or Hematocrit or Both"
+ },
+ {
+   "Code": "739",
+   "Description": "Most Recent Serum Creatine"
+ },
+ {
+   "Code": "740",
+   "Description": "Closed"
+ },
+ {
+   "Code": "741",
+   "Description": "Therapy"
+ },
+ {
+   "Code": "742",
+   "Description": "Implantation"
+ },
+ {
+   "Code": "743",
+   "Description": "Explantation"
+ },
+ {
+   "Code": "744",
+   "Description": "Date Became Aware"
+ },
+ {
+   "Code": "745",
+   "Description": "First Marketed"
+ },
+ {
+   "Code": "746",
+   "Description": "Last Marketed"
+ },
+ {
+   "Code": "747",
+   "Description": "New Due Date of First Payment to Principal and Interest"
+ },
+ {
+   "Code": "748",
+   "Description": "New Maturity Date"
+ },
+ {
+   "Code": "749",
+   "Description": "Current"
+ },
+ {
+   "Code": "750",
+   "Description": "Expected Problem ResolutionThe date and time by which resolution of a problem is expected to occur"
+ },
+ {
+   "Code": "751",
+   "Description": "Alternate Problem ResolutionThe alternate date and time by which resolution of a problem should occur, if the expected problem resolution date and time cannot be met"
+ },
+ {
+   "Code": "752",
+   "Description": "Fee Capitalization"
+ },
+ {
+   "Code": "753",
+   "Description": "Interest Capitalization"
+ },
+ {
+   "Code": "754",
+   "Description": "Next Payment Due"
+ },
+ {
+   "Code": "755",
+   "Description": "Conversion to Repayment"
+ },
+ {
+   "Code": "756",
+   "Description": "End of Grace Period"
+ },
+ {
+   "Code": "757",
+   "Description": "School Refund"
+ },
+ {
+   "Code": "758",
+   "Description": "Simple Interest Due"
+ },
+ {
+   "Code": "759",
+   "Description": "Date Practice Ceased"
+ },
+ {
+   "Code": "760",
+   "Description": "Printed"
+ },
+ {
+   "Code": "761",
+   "Description": "Date Practice Established"
+ },
+ {
+   "Code": "762",
+   "Description": "Drop Action Date"
+ },
+ {
+   "Code": "764",
+   "Description": "Most Recent Renewal"
+ },
+ {
+   "Code": "765",
+   "Description": "Original"
+ },
+ {
+   "Code": "766",
+   "Description": "Outside Auditor's Report"
+ },
+ {
+   "Code": "769",
+   "Description": "Pre-certification Date"
+ },
+ {
+   "Code": "770",
+   "Description": "Back on Market"
+ },
+ {
+   "Code": "771",
+   "Description": "Status"
+ },
+ {
+   "Code": "772",
+   "Description": "Benefit Adjustment Start"
+ },
+ {
+   "Code": "773",
+   "Description": "Off-Market"
+ },
+ {
+   "Code": "774",
+   "Description": "Tour"
+ },
+ {
+   "Code": "775",
+   "Description": "Benefit Adjustment End"
+ },
+ {
+   "Code": "776",
+   "Description": "Listing Received"
+ },
+ {
+   "Code": "777",
+   "Description": "Benefit Adjustment Period"
+ },
+ {
+   "Code": "778",
+   "Description": "Anticipated Closing"
+ },
+ {
+   "Code": "779",
+   "Description": "Last Publication"
+ },
+ {
+   "Code": "780",
+   "Description": "Sold Book PublicationPublication Date of Multiple Listing Book of Sold Property"
+ },
+ {
+   "Code": "781",
+   "Description": "Occupancy"
+ },
+ {
+   "Code": "782",
+   "Description": "Contingency"
+ },
+ {
+   "Code": "783",
+   "Description": "Percolation Test"
+ },
+ {
+   "Code": "784",
+   "Description": "Septic Approval"
+ },
+ {
+   "Code": "785",
+   "Description": "Title Transfer"
+ },
+ {
+   "Code": "786",
+   "Description": "Open House"
+ },
+ {
+   "Code": "787",
+   "Description": "Benefit Credit Period"
+ },
+ {
+   "Code": "788",
+   "Description": "Benefit Transfer Period"
+ },
+ {
+   "Code": "789",
+   "Description": "Homestead"
+ },
+ {
+   "Code": "790",
+   "Description": "Sanction"
+ },
+ {
+   "Code": "791",
+   "Description": "Tail Coverage BeginExtension of liability coverage begin date"
+ },
+ {
+   "Code": "792",
+   "Description": "Tail Coverage EndExtension of liability coverage end date"
+ },
+ {
+   "Code": "793",
+   "Description": "Training Begin"
+ },
+ {
+   "Code": "794",
+   "Description": "Training End"
+ },
+ {
+   "Code": "795",
+   "Description": "Verification Received"
+ },
+ {
+   "Code": "796",
+   "Description": "Verification Sent"
+ },
+ {
+   "Code": "797",
+   "Description": "State Residency Date"
+ },
+ {
+   "Code": "798",
+   "Description": "Effective Date of the Routing File"
+ },
+ {
+   "Code": "799",
+   "Description": "Test Data Analysis"
+ },
+ {
+   "Code": "800",
+   "Description": "Midpoint of Performance"
+ },
+ {
+   "Code": "801",
+   "Description": "Acquisition Date"
+ },
+ {
+   "Code": "802",
+   "Description": "Date of Action"
+ },
+ {
+   "Code": "803",
+   "Description": "Paid in Full"
+ },
+ {
+   "Code": "804",
+   "Description": "Refinance"
+ },
+ {
+   "Code": "805",
+   "Description": "Voluntary Termination"
+ },
+ {
+   "Code": "806",
+   "Description": "Customer Order"
+ },
+ {
+   "Code": "807",
+   "Description": "Stored"
+ },
+ {
+   "Code": "808",
+   "Description": "Selected"
+ },
+ {
+   "Code": "809",
+   "Description": "Posted"
+ },
+ {
+   "Code": "810",
+   "Description": "Document Received"
+ },
+ {
+   "Code": "811",
+   "Description": "Rebuilt"
+ },
+ {
+   "Code": "812",
+   "Description": "Marriage"
+ },
+ {
+   "Code": "813",
+   "Description": "Customs Entry Date"
+ },
+ {
+   "Code": "814",
+   "Description": "Payment Due Date"
+ },
+ {
+   "Code": "815",
+   "Description": "Maturity Date"
+ },
+ {
+   "Code": "816",
+   "Description": "Trade Date"
+ },
+ {
+   "Code": "817",
+   "Description": "Gallons Per Minute (GPM) Test Performed"
+ },
+ {
+   "Code": "818",
+   "Description": "British Thermal Unit (BTU) Test Performed"
+ },
+ {
+   "Code": "819",
+   "Description": "Last Accounts Filed at Public Registration Agency"
+ },
+ {
+   "Code": "820",
+   "Description": "Real Estate Tax Year"
+ },
+ {
+   "Code": "821",
+   "Description": "Final Reconciliation Value Estimate as of"
+ },
+ {
+   "Code": "822",
+   "Description": "Map"
+ },
+ {
+   "Code": "823",
+   "Description": "Opinion"
+ },
+ {
+   "Code": "824",
+   "Description": "Version"
+ },
+ {
+   "Code": "825",
+   "Description": "Original Due Date"
+ },
+ {
+   "Code": "826",
+   "Description": "Incumbency Period"
+ },
+ {
+   "Code": "827",
+   "Description": "Audience Deficiency Period"
+ },
+ {
+   "Code": "828",
+   "Description": "Aired Date"
+ },
+ {
+   "Code": "830",
+   "Description": "Schedule"
+ },
+ {
+   "Code": "831",
+   "Description": "Paid Through Date for Minimum Payment"
+ },
+ {
+   "Code": "832",
+   "Description": "Paid Through Date for Total Payment"
+ },
+ {
+   "Code": "840",
+   "Description": "Election"
+ },
+ {
+   "Code": "841",
+   "Description": "Engineering Data List"
+ },
+ {
+   "Code": "842",
+   "Description": "Last Production"
+ },
+ {
+   "Code": "843",
+   "Description": "Not Before"
+ },
+ {
+   "Code": "844",
+   "Description": "Not After"
+ },
+ {
+   "Code": "845",
+   "Description": "Initial Claim"
+ },
+ {
+   "Code": "846",
+   "Description": "Benefits Paid"
+ },
+ {
+   "Code": "847",
+   "Description": "Wages Earned"
+ },
+ {
+   "Code": "848",
+   "Description": "Adjusted Start"
+ },
+ {
+   "Code": "849",
+   "Description": "Adjusted End"
+ },
+ {
+   "Code": "850",
+   "Description": "Revised Adjusted Start"
+ },
+ {
+   "Code": "851",
+   "Description": "Revised Adjusted End"
+ },
+ {
+   "Code": "853",
+   "Description": "Field Test"
+ },
+ {
+   "Code": "854",
+   "Description": "Mortgage Note Date"
+ },
+ {
+   "Code": "855",
+   "Description": "Alternative Due Date"
+ },
+ {
+   "Code": "856",
+   "Description": "First Payment Change"
+ },
+ {
+   "Code": "857",
+   "Description": "First Rate Adjustment"
+ },
+ {
+   "Code": "858",
+   "Description": "Alternate Base Period"
+ },
+ {
+   "Code": "859",
+   "Description": "Prior Notice"
+ },
+ {
+   "Code": "860",
+   "Description": "Appointment Effective"
+ },
+ {
+   "Code": "861",
+   "Description": "Appointment Expiration"
+ },
+ {
+   "Code": "862",
+   "Description": "Company Termination"
+ },
+ {
+   "Code": "863",
+   "Description": "Continuing Education Requirement"
+ },
+ {
+   "Code": "864",
+   "Description": "Distributor Effective"
+ },
+ {
+   "Code": "865",
+   "Description": "Distributor Termination"
+ },
+ {
+   "Code": "866",
+   "Description": "Examination"
+ },
+ {
+   "Code": "867",
+   "Description": "Incorporation Dissolution"
+ },
+ {
+   "Code": "868",
+   "Description": "Last Follow-up"
+ },
+ {
+   "Code": "869",
+   "Description": "License Effective"
+ },
+ {
+   "Code": "870",
+   "Description": "License Expiration"
+ },
+ {
+   "Code": "871",
+   "Description": "License Renewal"
+ },
+ {
+   "Code": "872",
+   "Description": "License Requested"
+ },
+ {
+   "Code": "873",
+   "Description": "Mailed"
+ },
+ {
+   "Code": "874",
+   "Description": "Paperwork Mailed"
+ },
+ {
+   "Code": "875",
+   "Description": "Previous Employment"
+ },
+ {
+   "Code": "876",
+   "Description": "Previous Employment End"
+ },
+ {
+   "Code": "877",
+   "Description": "Previous Employment Start"
+ },
+ {
+   "Code": "878",
+   "Description": "Previous Residence"
+ },
+ {
+   "Code": "879",
+   "Description": "Previous Residence End"
+ },
+ {
+   "Code": "880",
+   "Description": "Previous Residence Start"
+ },
+ {
+   "Code": "881",
+   "Description": "Request"
+ },
+ {
+   "Code": "882",
+   "Description": "Resident License Effective"
+ },
+ {
+   "Code": "883",
+   "Description": "Resident License Expiration"
+ },
+ {
+   "Code": "884",
+   "Description": "State Termination"
+ },
+ {
+   "Code": "885",
+   "Description": "Texas Line Termination"
+ },
+ {
+   "Code": "900",
+   "Description": "Acceleration"
+ },
+ {
+   "Code": "901",
+   "Description": "Adjusted Contestability"
+ },
+ {
+   "Code": "903",
+   "Description": "Application Entry"
+ },
+ {
+   "Code": "904",
+   "Description": "Approval/Offer"
+ },
+ {
+   "Code": "905",
+   "Description": "Automatic Premium Loan"
+ },
+ {
+   "Code": "906",
+   "Description": "Collection"
+ },
+ {
+   "Code": "907",
+   "Description": "Confinement End"
+ },
+ {
+   "Code": "908",
+   "Description": "Confinement Start"
+ },
+ {
+   "Code": "909",
+   "Description": "Contestability"
+ },
+ {
+   "Code": "910",
+   "Description": "Flat Extra End"
+ },
+ {
+   "Code": "911",
+   "Description": "Last Activity"
+ },
+ {
+   "Code": "912",
+   "Description": "Last Change"
+ },
+ {
+   "Code": "913",
+   "Description": "Last Episode"
+ },
+ {
+   "Code": "914",
+   "Description": "Last Meal"
+ },
+ {
+   "Code": "915",
+   "Description": "Loan"
+ },
+ {
+   "Code": "916",
+   "Description": "Application Status"
+ },
+ {
+   "Code": "917",
+   "Description": "Maturity"
+ },
+ {
+   "Code": "918",
+   "Description": "Medical Information Signature"
+ },
+ {
+   "Code": "919",
+   "Description": "Medical Information System"
+ },
+ {
+   "Code": "920",
+   "Description": "Note"
+ },
+ {
+   "Code": "921",
+   "Description": "Offer Expiration"
+ },
+ {
+   "Code": "922",
+   "Description": "Original Receipt"
+ },
+ {
+   "Code": "923",
+   "Description": "Placement"
+ },
+ {
+   "Code": "924",
+   "Description": "Placement Period Expiration"
+ },
+ {
+   "Code": "925",
+   "Description": "Processing"
+ },
+ {
+   "Code": "926",
+   "Description": "Recapture"
+ },
+ {
+   "Code": "927",
+   "Description": "Re-entry"
+ },
+ {
+   "Code": "928",
+   "Description": "Reissue"
+ },
+ {
+   "Code": "930",
+   "Description": "Requalification"
+ },
+ {
+   "Code": "931",
+   "Description": "Reinsurance Effective"
+ },
+ {
+   "Code": "932",
+   "Description": "Reservation of Facility"
+ },
+ {
+   "Code": "933",
+   "Description": "Settlement Status"
+ },
+ {
+   "Code": "934",
+   "Description": "Table Rating End"
+ },
+ {
+   "Code": "935",
+   "Description": "Termination of Facility"
+ },
+ {
+   "Code": "936",
+   "Description": "Treatment"
+ },
+ {
+   "Code": "937",
+   "Description": "Department of Labor Wage Determination Date"
+ },
+ {
+   "Code": "938",
+   "Description": "Order"
+ },
+ {
+   "Code": "939",
+   "Description": "Resolved"
+ },
+ {
+   "Code": "940",
+   "Description": "Execution Date"
+ },
+ {
+   "Code": "941",
+   "Description": "Capitation Period Start"
+ },
+ {
+   "Code": "942",
+   "Description": "Capitation Period End"
+ },
+ {
+   "Code": "943",
+   "Description": "Last Date for a Government Agency to File a Claim"
+ },
+ {
+   "Code": "944",
+   "Description": "Adjustment Period"
+ },
+ {
+   "Code": "945",
+   "Description": "Activity"
+ },
+ {
+   "Code": "946",
+   "Description": "Mail By"
+ },
+ {
+   "Code": "947",
+   "Description": "Preparation"
+ },
+ {
+   "Code": "948",
+   "Description": "Payment Initiated"
+ },
+ {
+   "Code": "949",
+   "Description": "Payment Effective"
+ },
+ {
+   "Code": "950",
+   "Description": "Application"
+ },
+ {
+   "Code": "951",
+   "Description": "Reclassification"
+ },
+ {
+   "Code": "952",
+   "Description": "Reclassification (Exit Date)"
+ },
+ {
+   "Code": "953",
+   "Description": "Post-Reclassification"
+ },
+ {
+   "Code": "954",
+   "Description": "Post-Reclassification (First Report Card)"
+ },
+ {
+   "Code": "955",
+   "Description": "Post-Reclassification (First Semi-annual)"
+ },
+ {
+   "Code": "956",
+   "Description": "Post-Reclassification (Second Semi-annual)"
+ },
+ {
+   "Code": "957",
+   "Description": "Post-Reclassification (End of Second Year)"
+ },
+ {
+   "Code": "960",
+   "Description": "Adjusted Death Benefit"
+ },
+ {
+   "Code": "961",
+   "Description": "Anniversary"
+ },
+ {
+   "Code": "962",
+   "Description": "Annuitization"
+ },
+ {
+   "Code": "963",
+   "Description": "Annuity Commencement DateExpiration of annuity accumulation contract"
+ },
+ {
+   "Code": "964",
+   "Description": "Bill"
+ },
+ {
+   "Code": "965",
+   "Description": "Calendar AnniversaryAdjusted plan anniversary date"
+ },
+ {
+   "Code": "966",
+   "Description": "Contract Mailed"
+ },
+ {
+   "Code": "967",
+   "Description": "Early WithdrawalPre age 59 withdrawal from qualified plan"
+ },
+ {
+   "Code": "968",
+   "Description": "Fiscal Anniversary"
+ },
+ {
+   "Code": "969",
+   "Description": "IncomeDate annuity payments commence"
+ },
+ {
+   "Code": "970",
+   "Description": "Initial Premium"
+ },
+ {
+   "Code": "971",
+   "Description": "Initial Premium Effective"
+ },
+ {
+   "Code": "972",
+   "Description": "Last Premium Effective"
+ },
+ {
+   "Code": "973",
+   "Description": "Minimum Required DistributionInternal Revenue Service required latest distribution start date"
+ },
+ {
+   "Code": "974",
+   "Description": "Next Anniversary"
+ },
+ {
+   "Code": "975",
+   "Description": "Notice"
+ },
+ {
+   "Code": "976",
+   "Description": "Notification of Death"
+ },
+ {
+   "Code": "977",
+   "Description": "Partial Annuitization"
+ },
+ {
+   "Code": "978",
+   "Description": "Plan AnniversaryAnniversary date adjusted to nearest business day"
+ },
+ {
+   "Code": "979",
+   "Description": "Policy Surrender"
+ },
+ {
+   "Code": "980",
+   "Description": "Prior Contract Anniversary"
+ },
+ {
+   "Code": "981",
+   "Description": "Prior Contract Issue"
+ },
+ {
+   "Code": "982",
+   "Description": "Signature Received"
+ },
+ {
+   "Code": "983",
+   "Description": "Tax"
+ },
+ {
+   "Code": "984",
+   "Description": "Benefit Period"
+ },
+ {
+   "Code": "985",
+   "Description": "Month to Date"
+ },
+ {
+   "Code": "986",
+   "Description": "Semiannual Ending"
+ },
+ {
+   "Code": "987",
+   "Description": "Surrender"
+ },
+ {
+   "Code": "988",
+   "Description": "Plan of Treatment Period"
+ },
+ {
+   "Code": "989",
+   "Description": "Prior Hospitalization Date(s) Related to Current Service(s)"
+ },
+ {
+   "Code": "990",
+   "Description": "Original Name Change"
+ },
+ {
+   "Code": "992",
+   "Description": "Date Requested"
+ },
+ {
+   "Code": "993",
+   "Description": "Request for QuotationThe reference date associated with a specifically numbered request for quotation"
+ },
+ {
+   "Code": "994",
+   "Description": "QuoteThe date on which a (price) quote was rendered"
+ },
+ {
+   "Code": "995",
+   "Description": "Recorded Date"
+ },
+ {
+   "Code": "996",
+   "Description": "Required DeliveryA date on which or before, ordered goods or services must be delivered"
+ },
+ {
+   "Code": "997",
+   "Description": "Quote to be Received ByA date on which or before a quote must be received at a location specified in an RFQ"
+ },
+ {
+   "Code": "998",
+   "Description": "Continuation of Pay Start Date"
+ },
+ {
+   "Code": "999",
+   "Description": "Document Date"
+ },
+ {
+   "Code": "AA1",
+   "Description": "Estimated Point of Arrival"
+ },
+ {
+   "Code": "AA2",
+   "Description": "Estimated Point of Discharge"
+ },
+ {
+   "Code": "AA3",
+   "Description": "Cancel After, Ex Country"
+ },
+ {
+   "Code": "AA4",
+   "Description": "Cancel After, Ex Factory"
+ },
+ {
+   "Code": "AA5",
+   "Description": "Do Not Ship Before, Ex Country"
+ },
+ {
+   "Code": "AA6",
+   "Description": "Do Not Ship Before, Ex Factory"
+ },
+ {
+   "Code": "AA7",
+   "Description": "Final Scheduled Payment"
+ },
+ {
+   "Code": "AA8",
+   "Description": "Actual Discharge"
+ },
+ {
+   "Code": "AA9",
+   "Description": "Address Period"
+ },
+ {
+   "Code": "AAA",
+   "Description": "Arrival in Country"
+ },
+ {
+   "Code": "AAB",
+   "Description": "Citation"
+ },
+ {
+   "Code": "AAC",
+   "Description": "Suspension Effective"
+ },
+ {
+   "Code": "AAD",
+   "Description": "Crime"
+ },
+ {
+   "Code": "AAE",
+   "Description": "Discharge - Planned"
+ },
+ {
+   "Code": "AAF",
+   "Description": "Draft"
+ },
+ {
+   "Code": "AAG",
+   "Description": "Due Date"
+ },
+ {
+   "Code": "AAH",
+   "Description": "Event"
+ },
+ {
+   "Code": "AAI",
+   "Description": "First Involvement"
+ },
+ {
+   "Code": "AAJ",
+   "Description": "Guarantee Period"
+ },
+ {
+   "Code": "AAK",
+   "Description": "Income Increase Period"
+ },
+ {
+   "Code": "AAL",
+   "Description": "Installment Date"
+ },
+ {
+   "Code": "AAM",
+   "Description": "Last Civilian Flight"
+ },
+ {
+   "Code": "AAN",
+   "Description": "Last Flight"
+ },
+ {
+   "Code": "AAO",
+   "Description": "Last Insurance Medical"
+ },
+ {
+   "Code": "AAP",
+   "Description": "Last Military Flight"
+ },
+ {
+   "Code": "AAQ",
+   "Description": "Last Physical"
+ },
+ {
+   "Code": "AAR",
+   "Description": "License"
+ },
+ {
+   "Code": "AAS",
+   "Description": "Medical Certificate"
+ },
+ {
+   "Code": "AAT",
+   "Description": "Medication"
+ },
+ {
+   "Code": "AAU",
+   "Description": "Net Worth Date"
+ },
+ {
+   "Code": "AAV",
+   "Description": "Next Activity"
+ },
+ {
+   "Code": "AAW",
+   "Description": "Ownership Change"
+ },
+ {
+   "Code": "AAX",
+   "Description": "Ownership Period"
+ },
+ {
+   "Code": "AAY",
+   "Description": "Rate Date"
+ },
+ {
+   "Code": "AAZ",
+   "Description": "Requested Contract"
+ },
+ {
+   "Code": "AB1",
+   "Description": "Requested Offer"
+ },
+ {
+   "Code": "AB2",
+   "Description": "Sales Period"
+ },
+ {
+   "Code": "AB3",
+   "Description": "Tax Year"
+ },
+ {
+   "Code": "AB4",
+   "Description": "Time Period"
+ },
+ {
+   "Code": "AB5",
+   "Description": "Travel"
+ },
+ {
+   "Code": "AB6",
+   "Description": "Treatment End"
+ },
+ {
+   "Code": "AB7",
+   "Description": "Treatment Start"
+ },
+ {
+   "Code": "AB8",
+   "Description": "Trust"
+ },
+ {
+   "Code": "AB9",
+   "Description": "Worst Time to Call"
+ },
+ {
+   "Code": "ABA",
+   "Description": "Registration"
+ },
+ {
+   "Code": "ABB",
+   "Description": "Revoked"
+ },
+ {
+   "Code": "ABC",
+   "Description": "Estimated Date of Birth"
+ },
+ {
+   "Code": "ABD",
+   "Description": "Last Annual Report"
+ },
+ {
+   "Code": "ABE",
+   "Description": "Legal Action Started"
+ },
+ {
+   "Code": "ABF",
+   "Description": "Lien"
+ },
+ {
+   "Code": "ABG",
+   "Description": "Payment Period"
+ },
+ {
+   "Code": "ABH",
+   "Description": "Profit Period"
+ },
+ {
+   "Code": "ABI",
+   "Description": "Registered"
+ },
+ {
+   "Code": "ABK",
+   "Description": "ConsolidatedDate businesses consolidated or merged"
+ },
+ {
+   "Code": "ABL",
+   "Description": "Board of Directors Not Authorized As Of"
+ },
+ {
+   "Code": "ABM",
+   "Description": "Board of Directors Incomplete As Of"
+ },
+ {
+   "Code": "ABN",
+   "Description": "Manager Not Registered As Of"
+ },
+ {
+   "Code": "ABO",
+   "Description": "Citizenship Change"
+ },
+ {
+   "Code": "ABP",
+   "Description": "Participation"
+ },
+ {
+   "Code": "ABQ",
+   "Description": "Capitalization"
+ },
+ {
+   "Code": "ABR",
+   "Description": "Registration of Board of Directors"
+ },
+ {
+   "Code": "ABS",
+   "Description": "Ceased Operations"
+ },
+ {
+   "Code": "ABT",
+   "Description": "Satisfied"
+ },
+ {
+   "Code": "ABU",
+   "Description": "Terms Met"
+ },
+ {
+   "Code": "ABV",
+   "Description": "Asset Documentation Expiration"
+ },
+ {
+   "Code": "ABW",
+   "Description": "Credit Documentation Expiration"
+ },
+ {
+   "Code": "ABX",
+   "Description": "Income Documentation Expiration"
+ },
+ {
+   "Code": "ABY",
+   "Description": "Product Held Until"
+ },
+ {
+   "Code": "ACA",
+   "Description": "Immigration Date"
+ },
+ {
+   "Code": "ACB",
+   "Description": "Estimated Immigration Date"
+ },
+ {
+   "Code": "ACC",
+   "Description": "Current Disability Period Start"
+ },
+ {
+   "Code": "ACD",
+   "Description": "Current Disability Period End"
+ },
+ {
+   "Code": "ACE",
+   "Description": "Current Disability Period Last Day Worked"
+ },
+ {
+   "Code": "ACF",
+   "Description": "Benefit Type Gross Weekly Amount Effective"
+ },
+ {
+   "Code": "ACG",
+   "Description": "Benefit Type Net Weekly Amount Effective"
+ },
+ {
+   "Code": "ACH",
+   "Description": "Benefit Type Period Start"
+ },
+ {
+   "Code": "ACI",
+   "Description": "Benefit Type Period End"
+ },
+ {
+   "Code": "ACJ",
+   "Description": "Benefit Debit Start"
+ },
+ {
+   "Code": "ACK",
+   "Description": "Acknowledgment"
+ },
+ {
+   "Code": "ACL",
+   "Description": "Benefit Debit End"
+ },
+ {
+   "Code": "ACM",
+   "Description": "Benefit Credit Start"
+ },
+ {
+   "Code": "ACN",
+   "Description": "Benefit Credit End"
+ },
+ {
+   "Code": "ACO",
+   "Description": "Benefit Transfer Start"
+ },
+ {
+   "Code": "ACP",
+   "Description": "Benefit Transfer End"
+ },
+ {
+   "Code": "ACQ",
+   "Description": "Wage Effective"
+ },
+ {
+   "Code": "ACR",
+   "Description": "Full Denial Effective"
+ },
+ {
+   "Code": "ACS",
+   "Description": "Full Denial Rescission"
+ },
+ {
+   "Code": "ACT",
+   "Description": "Payment Issue"
+ },
+ {
+   "Code": "ACU",
+   "Description": "Payment Period Start"
+ },
+ {
+   "Code": "ACV",
+   "Description": "Payment Period End"
+ },
+ {
+   "Code": "ACW",
+   "Description": "Employer Reported Injury To Claim Administrator"
+ },
+ {
+   "Code": "ACX",
+   "Description": "Survey Year"
+ },
+ {
+   "Code": "ACZ",
+   "Description": "Controvert Date"
+ },
+ {
+   "Code": "ADA",
+   "Description": "Billed Through"
+ },
+ {
+   "Code": "ADB",
+   "Description": "Business Control Change"
+ },
+ {
+   "Code": "ADC",
+   "Description": "Court Registration"
+ },
+ {
+   "Code": "ADD",
+   "Description": "Annual Report DueDate annual report will be due with state"
+ },
+ {
+   "Code": "ADE",
+   "Description": "Claim Notification Received"
+ },
+ {
+   "Code": "ADF",
+   "Description": "Conversion Privilege End"
+ },
+ {
+   "Code": "ADG",
+   "Description": "Dividend Applied"
+ },
+ {
+   "Code": "ADH",
+   "Description": "In-force"
+ },
+ {
+   "Code": "ADI",
+   "Description": "Paid-up"
+ },
+ {
+   "Code": "ADJ",
+   "Description": "Premium Change"
+ },
+ {
+   "Code": "ADK",
+   "Description": "Policy Effective on or before"
+ },
+ {
+   "Code": "ADL",
+   "Description": "Asset and Liability Schedule"
+ },
+ {
+   "Code": "ADM",
+   "Description": "Annual Report MailedDate annual report was mailed when last filed with state corporate authorities"
+ },
+ {
+   "Code": "ADN",
+   "Description": "Policy Effective on or after"
+ },
+ {
+   "Code": "ADR",
+   "Description": "Annual Report FiledDate annual report last filed with state corporate authorities"
+ },
+ {
+   "Code": "ADS",
+   "Description": "Audit Period After Split Date"
+ },
+ {
+   "Code": "ADT",
+   "Description": "Audit Period Prior to Split Date"
+ },
+ {
+   "Code": "ADU",
+   "Description": "Exposure Source Period"
+ },
+ {
+   "Code": "ADV",
+   "Description": "Subcontractor Period of Hire"
+ },
+ {
+   "Code": "ADW",
+   "Description": "Divorce"
+ },
+ {
+   "Code": "ADX",
+   "Description": "Power of Attorney"
+ },
+ {
+   "Code": "ADY",
+   "Description": "Uniform Gifts to Minors Account Established"
+ },
+ {
+   "Code": "AEA",
+   "Description": "Medicare Part A Eligibility Begin Date"
+ },
+ {
+   "Code": "AEB",
+   "Description": "Medicare Part A Eligibility End Date"
+ },
+ {
+   "Code": "AEC",
+   "Description": "Medicare Part A Coverage Effective Date"
+ },
+ {
+   "Code": "AED",
+   "Description": "Medicare Part A Termination Date"
+ },
+ {
+   "Code": "AEE",
+   "Description": "Medicare Part B Eligibility Begin Date"
+ },
+ {
+   "Code": "AEF",
+   "Description": "Medicare Part B Eligibility End Date"
+ },
+ {
+   "Code": "AEG",
+   "Description": "Medicare Part B Coverage Effective Date"
+ },
+ {
+   "Code": "AEH",
+   "Description": "Medicare Part B Termination Date"
+ },
+ {
+   "Code": "AEI",
+   "Description": "Loading Period"
+ },
+ {
+   "Code": "AEK",
+   "Description": "Date on which Assets Judged Insufficient to Pay Creditors"
+ },
+ {
+   "Code": "AEL",
+   "Description": "Employees Temporarily Laid Off Begin Period"
+ },
+ {
+   "Code": "AEM",
+   "Description": "Employees Temporarily Laid Off End Period"
+ },
+ {
+   "Code": "AEN",
+   "Description": "First Published"
+ },
+ {
+   "Code": "AEO",
+   "Description": "Forecast Period Start"
+ },
+ {
+   "Code": "AEP",
+   "Description": "Forecast Period End"
+ },
+ {
+   "Code": "AEQ",
+   "Description": "Investigation Start"
+ },
+ {
+   "Code": "AER",
+   "Description": "Investigation End"
+ },
+ {
+   "Code": "AES",
+   "Description": "Last Published"
+ },
+ {
+   "Code": "AET",
+   "Description": "Latest Balance Sheet"
+ },
+ {
+   "Code": "AEU",
+   "Description": "Share Price"
+ },
+ {
+   "Code": "AEV",
+   "Description": "Stop Distribution"
+ },
+ {
+   "Code": "AEW",
+   "Description": "Maximum Credit DateDate of highest credit provided to entity by a vendor"
+ },
+ {
+   "Code": "AEX",
+   "Description": "Founding Date"
+ },
+ {
+   "Code": "AEY",
+   "Description": "Repayment Plan Start Date"
+ },
+ {
+   "Code": "AFA",
+   "Description": "Medicare Part D Eligibility Begin Date"
+ },
+ {
+   "Code": "AFB",
+   "Description": "Medicare Part D Eligibility End Date"
+ },
+ {
+   "Code": "AFC",
+   "Description": "Medicare Part D Coverage Effective Date"
+ },
+ {
+   "Code": "AFD",
+   "Description": "Medicare Part D Termination Date"
+ },
+ {
+   "Code": "ARD",
+   "Description": "Annual Report DelinquencyDate annual report will be delinquent with state corporate authorities"
+ },
+ {
+   "Code": "AWH",
+   "Description": "Withheld Date"
+ },
+ {
+   "Code": "BAA",
+   "Description": "Compliance Audit"
+ },
+ {
+   "Code": "BAB",
+   "Description": "Contractor Safety Performance Evaluation"
+ },
+ {
+   "Code": "BAC",
+   "Description": "Contractor Safety Procedures Review"
+ },
+ {
+   "Code": "BAD",
+   "Description": "Date of Equipment Inspection"
+ },
+ {
+   "Code": "BAE",
+   "Description": "Date of Safety Inspection"
+ },
+ {
+   "Code": "BAF",
+   "Description": "Employees Participation Plan Review"
+ },
+ {
+   "Code": "BAG",
+   "Description": "Expected Completion of Changes Resulting from Compliance Audit"
+ },
+ {
+   "Code": "BAH",
+   "Description": "Expected Completion of Changes Resulting from Process Hazard Analysis"
+ },
+ {
+   "Code": "BAI",
+   "Description": "Expected Completion of Changes Resulting from Hazard Review"
+ },
+ {
+   "Code": "BAJ",
+   "Description": "Hazard Review Completion"
+ },
+ {
+   "Code": "BAK",
+   "Description": "Hot Work Permit Procedures Review"
+ },
+ {
+   "Code": "BAL",
+   "Description": "Investigation"
+ },
+ {
+   "Code": "BAM",
+   "Description": "Maintenance Procedures Review"
+ },
+ {
+   "Code": "BAN",
+   "Description": "Management of Change Procedures Review"
+ },
+ {
+   "Code": "BAO",
+   "Description": "Operating Procedures Review"
+ },
+ {
+   "Code": "BAP",
+   "Description": "Safety Information Review"
+ },
+ {
+   "Code": "BAQ",
+   "Description": "Training"
+ },
+ {
+   "Code": "BAR",
+   "Description": "Training Program Review"
+ },
+ {
+   "Code": "BED",
+   "Description": "Billback End Date"
+ },
+ {
+   "Code": "BEE",
+   "Description": "Program Performance End Date"
+ },
+ {
+   "Code": "BES",
+   "Description": "Program Performance Start Date"
+ },
+ {
+   "Code": "BGP",
+   "Description": "Beginning of Grace Period"
+ },
+ {
+   "Code": "BIA",
+   "Description": "Billing ActivitiesDate of earliest billing action through date of latest billing action"
+ },
+ {
+   "Code": "BIP",
+   "Description": "Beginning of Interest Paid After Claim"
+ },
+ {
+   "Code": "BSD",
+   "Description": "Billback Start Date"
+ },
+ {
+   "Code": "CAD",
+   "Description": "Changed Accounting Date"
+ },
+ {
+   "Code": "CCR",
+   "Description": "Customs Cargo Release"
+ },
+ {
+   "Code": "CDD",
+   "Description": "Contract Definitization Date"
+ },
+ {
+   "Code": "CDE",
+   "Description": "Campaign End Date"
+ },
+ {
+   "Code": "CDS",
+   "Description": "Campaign Start Date"
+ },
+ {
+   "Code": "CDT",
+   "Description": "Maintenance Comment"
+ },
+ {
+   "Code": "CEA",
+   "Description": "Formation"
+ },
+ {
+   "Code": "CEB",
+   "Description": "Continuance"
+ },
+ {
+   "Code": "CEC",
+   "Description": "Merger"
+ },
+ {
+   "Code": "CED",
+   "Description": "Year Due"
+ },
+ {
+   "Code": "CEE",
+   "Description": "Next Annual Meeting"
+ },
+ {
+   "Code": "CEF",
+   "Description": "End of Last Fiscal Year"
+ },
+ {
+   "Code": "CEH",
+   "Description": "Year Beginning"
+ },
+ {
+   "Code": "CEJ",
+   "Description": "Started Doing Business"
+ },
+ {
+   "Code": "CEK",
+   "Description": "Sworn and Subscribed"
+ },
+ {
+   "Code": "CEL",
+   "Description": "Calendar Year"
+ },
+ {
+   "Code": "CEM",
+   "Description": "Asset"
+ },
+ {
+   "Code": "CEN",
+   "Description": "Inactivity"
+ },
+ {
+   "Code": "CEO",
+   "Description": "High Capital Year"
+ },
+ {
+   "Code": "CLO",
+   "Description": "Closing Date of First Balance Sheet"
+ },
+ {
+   "Code": "CLU",
+   "Description": "Closed Until"
+ },
+ {
+   "Code": "COM",
+   "Description": "Compliance"
+ },
+ {
+   "Code": "CON",
+   "Description": "Converted into Holding Company"
+ },
+ {
+   "Code": "COS",
+   "Description": "Care of Supplies in Storage Inspection DateIdentifies the date that items in storage were last inspected"
+ },
+ {
+   "Code": "CPA",
+   "Description": "Consumer Product Availability Date"
+ },
+ {
+   "Code": "CPD",
+   "Description": "Consumer Product Information Publication Date"
+ },
+ {
+   "Code": "CPE",
+   "Description": "Consumer Product Variant End Effective DateThe end effective date for Consumer Product Variant, which the supplier determines. Includes time."
+ },
+ {
+   "Code": "CPF",
+   "Description": "Consumer Product Variant Discontinued DateThe date on which the consumer product variant of the trade item, which has been manufactured, is no longer being manufactured. Includes time."
+ },
+ {
+   "Code": "CPG",
+   "Description": "Consumer Product Variant Cancelled DateThe date on which the cancellation of the consumer product variant launch of a trade item that was never, and will never be manufactured, occurs. Includes time."
+ },
+ {
+   "Code": "CPS",
+   "Description": "Consumer Product Variant Start Effective DateThe start effective date for a Consumer Product Variant product, which the supplier determines. Includes time."
+ },
+ {
+   "Code": "CRV",
+   "Description": "Claim Revised"
+ },
+ {
+   "Code": "CSD",
+   "Description": "Campaign Start Date"
+ },
+ {
+   "Code": "CSE",
+   "Description": "Campaign End Date"
+ },
+ {
+   "Code": "CUR",
+   "Description": "Current List"
+ },
+ {
+   "Code": "CVD",
+   "Description": "Community VisibilityThe date assigned by the data source when product information is available to their trading partners. Prior to this date product information was restricted."
+ },
+ {
+   "Code": "DAF",
+   "Description": "Account Frozen"
+ },
+ {
+   "Code": "DDO",
+   "Description": "Declaration"
+ },
+ {
+   "Code": "DEE",
+   "Description": "Deed Not Available"
+ },
+ {
+   "Code": "DEL",
+   "Description": "Delete"
+ },
+ {
+   "Code": "DET",
+   "Description": "Detrimental Information Received"
+ },
+ {
+   "Code": "DFF",
+   "Description": "Deferral"
+ },
+ {
+   "Code": "DFS",
+   "Description": "Departure From Specification"
+ },
+ {
+   "Code": "DIL",
+   "Description": "Deed In Lieu (DIL) Approved"
+ },
+ {
+   "Code": "DIP",
+   "Description": "Delayed Interest Paid Through"
+ },
+ {
+   "Code": "DIS",
+   "Description": "Disposition"
+ },
+ {
+   "Code": "DLC",
+   "Description": "Date of Last Contact"
+ },
+ {
+   "Code": "DOA",
+   "Description": "Date of Abandonment"
+ },
+ {
+   "Code": "DOD",
+   "Description": "Date of Delinquency"
+ },
+ {
+   "Code": "DOI",
+   "Description": "Delivery Order Issued"
+ },
+ {
+   "Code": "DOR",
+   "Description": "Repossession"
+ },
+ {
+   "Code": "DSP",
+   "Description": "Disposal"
+ },
+ {
+   "Code": "DTC",
+   "Description": "Deed and Title Received"
+ },
+ {
+   "Code": "DTD",
+   "Description": "Technical Data Supply By"
+ },
+ {
+   "Code": "DTQ",
+   "Description": "Deed and Title Requested"
+ },
+ {
+   "Code": "E01",
+   "Description": "Tenure Decision"
+ },
+ {
+   "Code": "E02",
+   "Description": "Most Recent Position Change"
+ },
+ {
+   "Code": "E03",
+   "Description": "Fee Payment"
+ },
+ {
+   "Code": "E04",
+   "Description": "Start Date for Continuous Employment"
+ },
+ {
+   "Code": "E05",
+   "Description": "Start Date for Current Position"
+ },
+ {
+   "Code": "E06",
+   "Description": "Start Date for Original Position"
+ },
+ {
+   "Code": "E07",
+   "Description": "Fiscal Year"
+ },
+ {
+   "Code": "EAD",
+   "Description": "End Availability DateThe date from which the trade item is no longer available from the information provider."
+ },
+ {
+   "Code": "ECD",
+   "Description": "Estimated Construction Date"
+ },
+ {
+   "Code": "ECF",
+   "Description": "Estimated Completion - First Prior Month"
+ },
+ {
+   "Code": "ECS",
+   "Description": "Estimated Completion - Second Prior Month"
+ },
+ {
+   "Code": "ECT",
+   "Description": "Estimated Completion - Third Prior Month"
+ },
+ {
+   "Code": "EDA",
+   "Description": "Affirmed"
+ },
+ {
+   "Code": "EDB",
+   "Description": "Auction"
+ },
+ {
+   "Code": "EDC",
+   "Description": "Authorized"
+ },
+ {
+   "Code": "EDD",
+   "Description": "Contribution"
+ },
+ {
+   "Code": "EDE",
+   "Description": "Executed"
+ },
+ {
+   "Code": "EDF",
+   "Description": "Forgiven"
+ },
+ {
+   "Code": "EDG",
+   "Description": "Presented"
+ },
+ {
+   "Code": "EDH",
+   "Description": "Legislative Session"
+ },
+ {
+   "Code": "EDI",
+   "Description": "Organized"
+ },
+ {
+   "Code": "EDJ",
+   "Description": "Pledged"
+ },
+ {
+   "Code": "EDK",
+   "Description": "Primary Election"
+ },
+ {
+   "Code": "EDL",
+   "Description": "Qualified"
+ },
+ {
+   "Code": "EDM",
+   "Description": "Refunded"
+ },
+ {
+   "Code": "EDN",
+   "Description": "Rescinded"
+ },
+ {
+   "Code": "EDO",
+   "Description": "Restructured From"
+ },
+ {
+   "Code": "EDP",
+   "Description": "Vote"
+ },
+ {
+   "Code": "EKD",
+   "Description": "Employer Knowledge of the Disability"
+ },
+ {
+   "Code": "EMM",
+   "Description": "End Date Maximum Buying Quantity"
+ },
+ {
+   "Code": "END",
+   "Description": "End Date Minimum Buying Quantity"
+ },
+ {
+   "Code": "EPP",
+   "Description": "Estimate Preparation"
+ },
+ {
+   "Code": "ESC",
+   "Description": "Estimate Comment"
+ },
+ {
+   "Code": "ESD",
+   "Description": "Effective Start DateDate on which the master data becomes available"
+ },
+ {
+   "Code": "ESF",
+   "Description": "Estimated Start - First Prior Month"
+ },
+ {
+   "Code": "ESS",
+   "Description": "Estimated Start - Second Prior Month"
+ },
+ {
+   "Code": "EST",
+   "Description": "Estimated Start - Third Prior Month"
+ },
+ {
+   "Code": "ETP",
+   "Description": "Earliest Filing Period"
+ },
+ {
+   "Code": "EXO",
+   "Description": "Exposure"
+ },
+ {
+   "Code": "EXP",
+   "Description": "Export"
+ },
+ {
+   "Code": "FAC",
+   "Description": "Facility Latest Billing ActionDate of most recent billable service provided during a spell of illness"
+ },
+ {
+   "Code": "FEB",
+   "Description": "Facility Earliest Billing ActionDate of the earliest billable service provided during a spell of illness"
+ },
+ {
+   "Code": "FFI",
+   "Description": "Financial Information"
+ },
+ {
+   "Code": "FFO",
+   "Description": "First Order"
+ },
+ {
+   "Code": "FIA",
+   "Description": "Final Interest Accrual"
+ },
+ {
+   "Code": "FPE",
+   "Description": "Funding Period - End"
+ },
+ {
+   "Code": "FPS",
+   "Description": "Funding Period - Start"
+ },
+ {
+   "Code": "FSD",
+   "Description": "First Available Ship Date"
+ },
+ {
+   "Code": "FSE",
+   "Description": "Free Service Call End Date"
+ },
+ {
+   "Code": "FSS",
+   "Description": "Free Service Call Start Date"
+ },
+ {
+   "Code": "GRD",
+   "Description": "Graduated"
+ },
+ {
+   "Code": "HHD",
+   "Description": "Home Health Date of Earliest Billable ActionDate of the earliest billable service provided by a home health provider during an episode"
+ },
+ {
+   "Code": "HHE",
+   "Description": "Home Health EpisodeDates during which a patient is under the care of a home health agency"
+ },
+ {
+   "Code": "HHL",
+   "Description": "Home Health Date of Latest Billable ActionDate of the most recent billable service provided by a home health provider during an episode"
+ },
+ {
+   "Code": "ICF",
+   "Description": "Converted to Electronic Date"
+ },
+ {
+   "Code": "IDG",
+   "Description": "Insolvency Discharge Granted"
+ },
+ {
+   "Code": "IFH",
+   "Description": "Initial Federal Housing Authority Claim Payment"
+ },
+ {
+   "Code": "III",
+   "Description": "Incorporation"
+ },
+ {
+   "Code": "ILU",
+   "Description": "Image Last Update Date"
+ },
+ {
+   "Code": "IMB",
+   "Description": "Imbalance Period"
+ },
+ {
+   "Code": "IMP",
+   "Description": "Import"
+ },
+ {
+   "Code": "INC",
+   "Description": "Incident"
+ },
+ {
+   "Code": "INT",
+   "Description": "Inactive Until"
+ },
+ {
+   "Code": "IPS",
+   "Description": "Interest on Presale Start"
+ },
+ {
+   "Code": "IVA",
+   "Description": "Initial Veterans Administration Claim Payment"
+ },
+ {
+   "Code": "KEV",
+   "Description": "Key Event Fiscal Year"
+ },
+ {
+   "Code": "KEW",
+   "Description": "Key Event Calendar Year"
+ },
+ {
+   "Code": "LAM",
+   "Description": "Last Annual Meeting"
+ },
+ {
+   "Code": "LAS",
+   "Description": "Last Check for Balance Sheet Update"
+ },
+ {
+   "Code": "LCC",
+   "Description": "Last Capital ChangeDate capital stock was last modified"
+ },
+ {
+   "Code": "LEA",
+   "Description": "Letter of Agreement"
+ },
+ {
+   "Code": "LEL",
+   "Description": "Letter of Liability"
+ },
+ {
+   "Code": "LIQ",
+   "Description": "Liquidation"
+ },
+ {
+   "Code": "LLP",
+   "Description": "Low Period"
+ },
+ {
+   "Code": "LOG",
+   "Description": "Equipment Log Entry"
+ },
+ {
+   "Code": "LPC",
+   "Description": "List Price Change"
+ },
+ {
+   "Code": "LSC",
+   "Description": "Legal Structure Change"
+ },
+ {
+   "Code": "LSD",
+   "Description": "Last Submission Date"
+ },
+ {
+   "Code": "LTP",
+   "Description": "Latest Filing Period"
+ },
+ {
+   "Code": "MRR",
+   "Description": "Meter Reading"
+ },
+ {
+   "Code": "MSD",
+   "Description": "Latest Material Safety Data Sheet Date"
+ },
+ {
+   "Code": "NAM",
+   "Description": "Present Name"
+ },
+ {
+   "Code": "NFD",
+   "Description": "Negotiated Finish"
+ },
+ {
+   "Code": "NOD",
+   "Description": "Notice of Delinquency (NOD) Received"
+ },
+ {
+   "Code": "NRG",
+   "Description": "Not Registered"
+ },
+ {
+   "Code": "NSD",
+   "Description": "Negotiated Start"
+ },
+ {
+   "Code": "OCD",
+   "Description": "Organic Certification DateThe date that the organic certification was issued by the organic certification agency"
+ },
+ {
+   "Code": "ORG",
+   "Description": "Original List"
+ },
+ {
+   "Code": "PBC",
+   "Description": "Present Control"
+ },
+ {
+   "Code": "PCP",
+   "Description": "Primary Coverage Claim Paid"
+ },
+ {
+   "Code": "PCS",
+   "Description": "Primary Coverage Claim Submission"
+ },
+ {
+   "Code": "PCT",
+   "Description": "Price Changes Allowed From Date"
+ },
+ {
+   "Code": "PCU",
+   "Description": "Price Changes Allowed To Date"
+ },
+ {
+   "Code": "PDA",
+   "Description": "Product Discontinued but Still AvailableProduction on the product has been discontinued as of the specified date, but existing stock is still available"
+ },
+ {
+   "Code": "PDE",
+   "Description": "Partial Denial Effective"
+ },
+ {
+   "Code": "PDR",
+   "Description": "Partial Denial Rescission"
+ },
+ {
+   "Code": "PDS",
+   "Description": "Correct Program Start Date"
+ },
+ {
+   "Code": "PDT",
+   "Description": "Correct Program End Date"
+ },
+ {
+   "Code": "PDU",
+   "Description": "Correct Contract Start Date"
+ },
+ {
+   "Code": "PDV",
+   "Description": "Privilege Details Verification"
+ },
+ {
+   "Code": "PDW",
+   "Description": "Correct Contract End Date"
+ },
+ {
+   "Code": "PED",
+   "Description": "Program End Date"
+ },
+ {
+   "Code": "PIS",
+   "Description": "Product Image Start DateThe date the product image is available for use"
+ },
+ {
+   "Code": "PLS",
+   "Description": "Present Legal Structure"
+ },
+ {
+   "Code": "PME",
+   "Description": "Packaging Material Effective DateThe effective date when the packaging materials for a product are made available"
+ },
+ {
+   "Code": "PPC",
+   "Description": "Pool Policy Claim Submission"
+ },
+ {
+   "Code": "PPD",
+   "Description": "Post Paid DateThe last date a tax authority posted tax payments"
+ },
+ {
+   "Code": "PPP",
+   "Description": "Peak Period"
+ },
+ {
+   "Code": "PRD",
+   "Description": "Previously Reported Date of Birth"
+ },
+ {
+   "Code": "PRR",
+   "Description": "Presented to Receivers"
+ },
+ {
+   "Code": "PSA",
+   "Description": "Property Sale Approved"
+ },
+ {
+   "Code": "PSC",
+   "Description": "Property Sale Closed"
+ },
+ {
+   "Code": "PSD",
+   "Description": "Program Start Date"
+ },
+ {
+   "Code": "PSF",
+   "Description": "Property Sale Confirmation"
+ },
+ {
+   "Code": "PTD",
+   "Description": "Paid To Date"
+ },
+ {
+   "Code": "PTO",
+   "Description": "Planned Obsolescence ItemThe date the item status is changed to reflect it being phased out of production. It is still currently available for sale."
+ },
+ {
+   "Code": "PUD",
+   "Description": "Pick-up Date"
+ },
+ {
+   "Code": "RAP",
+   "Description": "Receiver Appointed"
+ },
+ {
+   "Code": "REM",
+   "Description": "Remanufacture DateThe date a product was refurbished by renovating and reassembling its components"
+ },
+ {
+   "Code": "RES",
+   "Description": "Resigned"
+ },
+ {
+   "Code": "RFD",
+   "Description": "Requested Finish"
+ },
+ {
+   "Code": "RFF",
+   "Description": "Recovery Finish"
+ },
+ {
+   "Code": "RFO",
+   "Description": "Referred From"
+ },
+ {
+   "Code": "RNT",
+   "Description": "Rent Survey"
+ },
+ {
+   "Code": "RRM",
+   "Description": "Received in the Mail"
+ },
+ {
+   "Code": "RRT",
+   "Description": "Revocation"
+ },
+ {
+   "Code": "RSD",
+   "Description": "Requested Start"
+ },
+ {
+   "Code": "RSS",
+   "Description": "Recovery Start"
+ },
+ {
+   "Code": "RTO",
+   "Description": "Referred To"
+ },
+ {
+   "Code": "SCV",
+   "Description": "Social Security Claims Verification"
+ },
+ {
+   "Code": "SDD",
+   "Description": "Sole Directorship Date"
+ },
+ {
+   "Code": "SDM",
+   "Description": "Start Date Maximum Buying Quantity"
+ },
+ {
+   "Code": "SFH",
+   "Description": "Subsequent Federal Housing Authority Claim Payment"
+ },
+ {
+   "Code": "SMB",
+   "Description": "Start Date Minimum Buying Quantity"
+ },
+ {
+   "Code": "SPD",
+   "Description": "Initial Support Date"
+ },
+ {
+   "Code": "SPE",
+   "Description": "Suggested Retail Price Effective Date"
+ },
+ {
+   "Code": "STN",
+   "Description": "Transition"
+ },
+ {
+   "Code": "SVA",
+   "Description": "Subsequent Veterans Administration Claim Payment"
+ },
+ {
+   "Code": "TSR",
+   "Description": "Trade Style Registered"
+ },
+ {
+   "Code": "TSS",
+   "Description": "Trial Started"
+ },
+ {
+   "Code": "TST",
+   "Description": "Trial Set"
+ },
+ {
+   "Code": "VAT",
+   "Description": "Value Added Tax (VAT) Claims Verification"
+ },
+ {
+   "Code": "VLU",
+   "Description": "Valid Until"
+ },
+ {
+   "Code": "W01",
+   "Description": "Sample Collected"
+ },
+ {
+   "Code": "W02",
+   "Description": "Status Change"
+ },
+ {
+   "Code": "W03",
+   "Description": "Construction Start"
+ },
+ {
+   "Code": "W05",
+   "Description": "Recompletion"
+ },
+ {
+   "Code": "W06",
+   "Description": "Last Logged"
+ },
+ {
+   "Code": "W07",
+   "Description": "Well Log Run"
+ },
+ {
+   "Code": "W08",
+   "Description": "Surface Casing Authority Approval"
+ },
+ {
+   "Code": "W09",
+   "Description": "Reached Total Depth"
+ },
+ {
+   "Code": "W10",
+   "Description": "Spacing Order Unit Assigned"
+ },
+ {
+   "Code": "W11",
+   "Description": "Rig Arrival"
+ },
+ {
+   "Code": "W12",
+   "Description": "Location Exception Order Number Assigned"
+ },
+ {
+   "Code": "W13",
+   "Description": "Sidetracked Wellbore"
+ },
+ {
+   "Code": "WAA",
+   "Description": "Time Employee Began Work"
+ },
+ {
+   "Code": "WAY",
+   "Description": "Waybill"
+ },
+ {
+   "Code": "XX1",
+   "Description": "Order Day Day of week when an order may be placed"
+ },
+ {
+   "Code": "XX2",
+   "Description": "Delivery DayDay of week when an order delivery will occur"
+ },
+ {
+   "Code": "XX3",
+   "Description": "Order Cut-Off TimeLatest time-of-day when an order may be placed"
+ },
+ {
+   "Code": "XX5",
+   "Description": "Active ItemDate item is available for sale"
+ },
+ {
+   "Code": "XX6",
+   "Description": "Mature ItemThe date an active product becomes reclassified as mature.  The product is still available for sale. This informs the trading partner a newer product or version is available."
+ },
+ {
+   "Code": "XX7",
+   "Description": "Introductory ItemThe date a new item is introduced to the supply chain."
+ },
+ {
+   "Code": "XX8",
+   "Description": "Obsolete ItemThe date the Item is no longer available to order."
+ },
+ {
+   "Code": "YXX",
+   "Description": "Programmed Fiscal Year"
+ },
+ {
+   "Code": "YXY",
+   "Description": "Programmed Calendar Year"
+ },
+ {
+   "Code": "ZZZ",
+   "Description": "Mutually Defined"
+ }
+]
