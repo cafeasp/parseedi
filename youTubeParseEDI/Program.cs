@@ -14,7 +14,7 @@ class Program
         //Console.WriteLine("Hello, World!");
         //Dtm[] dtm = GetDTMdescription("/Users/victorpacheco/Desktop/YouTube/convertjson.json");
 
-        string data = await ReadTextFileAsync("/Users/victorpacheco/Desktop/YouTube/edi-sample.txt");
+        //string data = await ReadTextFileAsync("/Users/victorpacheco/Desktop/YouTube/edi-sample.txt");
 
 
 
@@ -22,7 +22,9 @@ class Program
         //Parse850(data, dtm);
 
 
-        GenerateAck(data);
+        //GenerateAck(data);
+
+        GenerateASN();
     }
 
     static void Parse850(string edi, Dtm[] dtms)
@@ -204,6 +206,17 @@ class Program
 
         var file_id = Guid.NewGuid().ToString();
         File.WriteAllText("/Users/victorpacheco/Desktop/YouTube/po-ack-" + file_id + ".txt", data);
+    }
+
+    #endregion
+
+    #region Generate856
+    static void GenerateASN() {
+        var asn = new AdvanceShipNotice();
+        var data = asn.Generate();
+
+        var file_id = Guid.NewGuid().ToString();
+        File.WriteAllText("/Users/victorpacheco/Desktop/YouTube/ASN-856-" + file_id + ".txt", data);
     }
 
     #endregion
